@@ -1,0 +1,652 @@
+{
+  "matchSummary":[
+    {
+      "team1":"KKR",
+      "team2":"SRH",
+      "winner":"KKR",
+      "margin":"8 wickets",
+      "ground":"Chennai",
+      "matchDate":"May 26, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RR",
+      "team2":"SRH",
+      "winner":"SRH",
+      "margin":"36 runs",
+      "ground":"Chennai",
+      "matchDate":"May 24, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RR",
+      "team2":"RCB",
+      "winner":"RR",
+      "margin":"4 wickets",
+      "ground":"Ahmedabad",
+      "matchDate":"May 22, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"KKR",
+      "team2":"SRH",
+      "winner":"KKR",
+      "margin":"8 wickets",
+      "ground":"Ahmedabad",
+      "matchDate":"May 21, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RR",
+      "team2":"KKR",
+      "winner":"no result",
+      "margin":"-",
+      "ground":"Guwahati",
+      "matchDate":"May 19, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"SRH",
+      "team2":"Punjab Kings",
+      "winner":"SRH",
+      "margin":"4 wickets",
+      "ground":"Hyderabad",
+      "matchDate":"May 19, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RCB",
+      "team2":"CSK",
+      "winner":"RCB",
+      "margin":"27 runs",
+      "ground":"Bengaluru",
+      "matchDate":"May 18, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"MI",
+      "team2":"LSG",
+      "winner":"LSG",
+      "margin":"18 runs",
+      "ground":"Wankhede",
+      "matchDate":"May 17, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RR",
+      "team2":"Punjab Kings",
+      "winner":"Punjab Kings",
+      "margin":"5 wickets",
+      "ground":"Guwahati",
+      "matchDate":"May 15, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"DC",
+      "team2":"LSG",
+      "winner":"DC",
+      "margin":"19 runs",
+      "ground":"Delhi",
+      "matchDate":"May 14, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RCB",
+      "team2":"DC",
+      "winner":"RCB",
+      "margin":"47 runs",
+      "ground":"Bengaluru",
+      "matchDate":"May 12, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"CSK",
+      "team2":"RR",
+      "winner":"CSK",
+      "margin":"5 wickets",
+      "ground":"Chennai",
+      "matchDate":"May 12, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"KKR",
+      "team2":"MI",
+      "winner":"KKR",
+      "margin":"18 runs",
+      "ground":"Eden Gardens",
+      "matchDate":"May 11, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"GT",
+      "team2":"CSK",
+      "winner":"GT",
+      "margin":"35 runs",
+      "ground":"Ahmedabad",
+      "matchDate":"May 10, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"Punjab Kings",
+      "team2":"RCB",
+      "winner":"RCB",
+      "margin":"60 runs",
+      "ground":"Dharamsala",
+      "matchDate":"May 9, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"SRH",
+      "team2":"LSG",
+      "winner":"SRH",
+      "margin":"10 wickets",
+      "ground":"Hyderabad",
+      "matchDate":"May 8, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"DC",
+      "team2":"RR",
+      "winner":"DC",
+      "margin":"20 runs",
+      "ground":"Delhi",
+      "matchDate":"May 7, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"MI",
+      "team2":"SRH",
+      "winner":"MI",
+      "margin":"7 wickets",
+      "ground":"Wankhede",
+      "matchDate":"May 6, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"LSG",
+      "team2":"KKR",
+      "winner":"KKR",
+      "margin":"98 runs",
+      "ground":"Lucknow",
+      "matchDate":"May 5, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"Punjab Kings",
+      "team2":"CSK",
+      "winner":"CSK",
+      "margin":"28 runs",
+      "ground":"Dharamsala",
+      "matchDate":"May 5, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RCB",
+      "team2":"GT",
+      "winner":"RCB",
+      "margin":"4 wickets",
+      "ground":"Bengaluru",
+      "matchDate":"May 4, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"MI",
+      "team2":"KKR",
+      "winner":"KKR",
+      "margin":"24 runs",
+      "ground":"Wankhede",
+      "matchDate":"May 3, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"SRH",
+      "team2":"RR",
+      "winner":"SRH",
+      "margin":"1 run",
+      "ground":"Hyderabad",
+      "matchDate":"May 2, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"CSK",
+      "team2":"Punjab Kings",
+      "winner":"Punjab Kings",
+      "margin":"7 wickets",
+      "ground":"Chennai",
+      "matchDate":"May 1, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"LSG",
+      "team2":"MI",
+      "winner":"LSG",
+      "margin":"4 wickets",
+      "ground":"Lucknow",
+      "matchDate":"Apr 30, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"KKR",
+      "team2":"DC",
+      "winner":"KKR",
+      "margin":"7 wickets",
+      "ground":"Eden Gardens",
+      "matchDate":"Apr 29, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"CSK",
+      "team2":"SRH",
+      "winner":"CSK",
+      "margin":"78 runs",
+      "ground":"Chennai",
+      "matchDate":"Apr 28, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"GT",
+      "team2":"RCB",
+      "winner":"RCB",
+      "margin":"9 wickets",
+      "ground":"Ahmedabad",
+      "matchDate":"Apr 28, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"LSG",
+      "team2":"RR",
+      "winner":"RR",
+      "margin":"7 wickets",
+      "ground":"Lucknow",
+      "matchDate":"Apr 27, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"DC",
+      "team2":"MI",
+      "winner":"DC",
+      "margin":"10 runs",
+      "ground":"Delhi",
+      "matchDate":"Apr 27, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"KKR",
+      "team2":"Punjab Kings",
+      "winner":"Punjab Kings",
+      "margin":"8 wickets",
+      "ground":"Eden Gardens",
+      "matchDate":"Apr 26, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"SRH",
+      "team2":"RCB",
+      "winner":"RCB",
+      "margin":"35 runs",
+      "ground":"Hyderabad",
+      "matchDate":"Apr 25, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"DC",
+      "team2":"GT",
+      "winner":"DC",
+      "margin":"4 runs",
+      "ground":"Delhi",
+      "matchDate":"Apr 24, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"CSK",
+      "team2":"LSG",
+      "winner":"LSG",
+      "margin":"6 wickets",
+      "ground":"Chennai",
+      "matchDate":"Apr 23, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RR",
+      "team2":"MI",
+      "winner":"RR",
+      "margin":"9 wickets",
+      "ground":"Jaipur",
+      "matchDate":"Apr 22, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"Punjab Kings",
+      "team2":"GT",
+      "winner":"GT",
+      "margin":"3 wickets",
+      "ground":"Mullanpur",
+      "matchDate":"Apr 21, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"KKR",
+      "team2":"RCB",
+      "winner":"KKR",
+      "margin":"1 run",
+      "ground":"Eden Gardens",
+      "matchDate":"Apr 21, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"DC",
+      "team2":"SRH",
+      "winner":"SRH",
+      "margin":"67 runs",
+      "ground":"Delhi",
+      "matchDate":"Apr 20, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"LSG",
+      "team2":"CSK",
+      "winner":"LSG",
+      "margin":"8 wickets",
+      "ground":"Lucknow",
+      "matchDate":"Apr 19, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"Punjab Kings",
+      "team2":"MI",
+      "winner":"MI",
+      "margin":"9 runs",
+      "ground":"Mullanpur",
+      "matchDate":"Apr 18, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"GT",
+      "team2":"DC",
+      "winner":"DC",
+      "margin":"6 wickets",
+      "ground":"Ahmedabad",
+      "matchDate":"Apr 17, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"KKR",
+      "team2":"RR",
+      "winner":"RR",
+      "margin":"2 wickets",
+      "ground":"Eden Gardens",
+      "matchDate":"Apr 16, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RCB",
+      "team2":"SRH",
+      "winner":"SRH",
+      "margin":"25 runs",
+      "ground":"Bengaluru",
+      "matchDate":"Apr 15, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"MI",
+      "team2":"CSK",
+      "winner":"CSK",
+      "margin":"20 runs",
+      "ground":"Wankhede",
+      "matchDate":"Apr 14, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"KKR",
+      "team2":"LSG",
+      "winner":"KKR",
+      "margin":"8 wickets",
+      "ground":"Eden Gardens",
+      "matchDate":"Apr 14, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"Punjab Kings",
+      "team2":"RR",
+      "winner":"RR",
+      "margin":"3 wickets",
+      "ground":"Mullanpur",
+      "matchDate":"Apr 13, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"LSG",
+      "team2":"DC",
+      "winner":"DC",
+      "margin":"6 wickets",
+      "ground":"Lucknow",
+      "matchDate":"Apr 12, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"MI",
+      "team2":"RCB",
+      "winner":"MI",
+      "margin":"7 wickets",
+      "ground":"Wankhede",
+      "matchDate":"Apr 11, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RR",
+      "team2":"GT",
+      "winner":"GT",
+      "margin":"3 wickets",
+      "ground":"Jaipur",
+      "matchDate":"Apr 10, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"Punjab Kings",
+      "team2":"SRH",
+      "winner":"SRH",
+      "margin":"2 runs",
+      "ground":"Mullanpur",
+      "matchDate":"Apr 9, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"CSK",
+      "team2":"KKR",
+      "winner":"CSK",
+      "margin":"7 wickets",
+      "ground":"Chennai",
+      "matchDate":"Apr 8, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"LSG",
+      "team2":"GT",
+      "winner":"LSG",
+      "margin":"33 runs",
+      "ground":"Lucknow",
+      "matchDate":"Apr 7, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"MI",
+      "team2":"DC",
+      "winner":"MI",
+      "margin":"29 runs",
+      "ground":"Wankhede",
+      "matchDate":"Apr 7, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RR",
+      "team2":"RCB",
+      "winner":"RR",
+      "margin":"6 wickets",
+      "ground":"Jaipur",
+      "matchDate":"Apr 6, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"SRH",
+      "team2":"CSK",
+      "winner":"SRH",
+      "margin":"6 wickets",
+      "ground":"Hyderabad",
+      "matchDate":"Apr 5, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"GT",
+      "team2":"Punjab Kings",
+      "winner":"Punjab Kings",
+      "margin":"3 wickets",
+      "ground":"Ahmedabad",
+      "matchDate":"Apr 4, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"DC",
+      "team2":"KKR",
+      "winner":"KKR",
+      "margin":"106 runs",
+      "ground":"Visakhapatnam",
+      "matchDate":"Apr 3, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RCB",
+      "team2":"LSG",
+      "winner":"LSG",
+      "margin":"28 runs",
+      "ground":"Bengaluru",
+      "matchDate":"Apr 2, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"MI",
+      "team2":"RR",
+      "winner":"RR",
+      "margin":"6 wickets",
+      "ground":"Wankhede",
+      "matchDate":"Apr 1, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"DC",
+      "team2":"CSK",
+      "winner":"DC",
+      "margin":"20 runs",
+      "ground":"Visakhapatnam",
+      "matchDate":"Mar 31, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"GT",
+      "team2":"SRH",
+      "winner":"GT",
+      "margin":"7 wickets",
+      "ground":"Ahmedabad",
+      "matchDate":"Mar 31, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"LSG",
+      "team2":"Punjab Kings",
+      "winner":"LSG",
+      "margin":"21 runs",
+      "ground":"Lucknow",
+      "matchDate":"Mar 30, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RCB",
+      "team2":"KKR",
+      "winner":"KKR",
+      "margin":"7 wickets",
+      "ground":"Bengaluru",
+      "matchDate":"Mar 29, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RR",
+      "team2":"DC",
+      "winner":"RR",
+      "margin":"12 runs",
+      "ground":"Jaipur",
+      "matchDate":"Mar 28, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"SRH",
+      "team2":"MI",
+      "winner":"SRH",
+      "margin":"31 runs",
+      "ground":"Hyderabad",
+      "matchDate":"Mar 27, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"CSK",
+      "team2":"GT",
+      "winner":"CSK",
+      "margin":"63 runs",
+      "ground":"Chennai",
+      "matchDate":"Mar 26, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RCB",
+      "team2":"Punjab Kings",
+      "winner":"RCB",
+      "margin":"4 wickets",
+      "ground":"Bengaluru",
+      "matchDate":"Mar 25, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"GT",
+      "team2":"MI",
+      "winner":"GT",
+      "margin":"6 runs",
+      "ground":"Ahmedabad",
+      "matchDate":"Mar 24, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"RR",
+      "team2":"LSG",
+      "winner":"RR",
+      "margin":"20 runs",
+      "ground":"Jaipur",
+      "matchDate":"Mar 24, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"KKR",
+      "team2":"SRH",
+      "winner":"KKR",
+      "margin":"4 runs",
+      "ground":"Eden Gardens",
+      "matchDate":"Mar 23, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"Punjab Kings",
+      "team2":"DC",
+      "winner":"Punjab Kings",
+      "margin":"4 wickets",
+      "ground":"Mullanpur",
+      "matchDate":"Mar 23, 2024",
+      "scorecard":"Twenty20"
+    },
+    {
+      "team1":"CSK",
+      "team2":"RCB",
+      "winner":"CSK",
+      "margin":"6 wickets",
+      "ground":"Chennai",
+      "matchDate":"Mar 22, 2024",
+      "scorecard":"Twenty20"
+    }
+  ]
+}

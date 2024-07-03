@@ -1,0 +1,73 @@
+team1,team2,winner,margin,ground,matchDate,match_id
+Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,6 wickets,Chennai,"Mar 22, 2024",1
+Punjab Kings,Delhi Capitals,Punjab Kings,4 wickets,Mullanpur,"Mar 23, 2024",2
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,4 runs,Eden Gardens,"Mar 23, 2024",3
+Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,20 runs,Jaipur,"Mar 24, 2024",4
+Gujarat Titans,Mumbai Indians,Gujarat Titans,6 runs,Ahmedabad,"Mar 24, 2024",5
+Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,4 wickets,Bengaluru,"Mar 25, 2024",6
+Chennai Super Kings,Gujarat Titans,Chennai Super Kings,63 runs,Chennai,"Mar 26, 2024",7
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,31 runs,Hyderabad,"Mar 27, 2024",8
+Rajasthan Royals,Delhi Capitals,Rajasthan Royals,12 runs,Jaipur,"Mar 28, 2024",9
+Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,7 wickets,Bengaluru,"Mar 29, 2024",10
+Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,21 runs,Lucknow,"Mar 30, 2024",11
+Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,7 wickets,Ahmedabad,"Mar 31, 2024",12
+Delhi Capitals,Chennai Super Kings,Delhi Capitals,20 runs,Visakhapatnam,"Mar 31, 2024",13
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,6 wickets,Wankhede,"Apr 1, 2024",14
+Royal Challengers Bengaluru,Lucknow Super Giants,Lucknow Super Giants,28 runs,Bengaluru,"Apr 2, 2024",15
+Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,106 runs,Visakhapatnam,"Apr 3, 2024",16
+Gujarat Titans,Punjab Kings,Punjab Kings,3 wickets,Ahmedabad,"Apr 4, 2024",17
+Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,6 wickets,Hyderabad,"Apr 5, 2024",18
+Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,6 wickets,Jaipur,"Apr 6, 2024",19
+Mumbai Indians,Delhi Capitals,Mumbai Indians,29 runs,Wankhede,"Apr 7, 2024",20
+Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,33 runs,Lucknow,"Apr 7, 2024",21
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,7 wickets,Chennai,"Apr 8, 2024",22
+Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,2 runs,Mullanpur,"Apr 9, 2024",23
+Rajasthan Royals,Gujarat Titans,Gujarat Titans,3 wickets,Jaipur,"Apr 10, 2024",24
+Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,7 wickets,Wankhede,"Apr 11, 2024",25
+Lucknow Super Giants,Delhi Capitals,Delhi Capitals,6 wickets,Lucknow,"Apr 12, 2024",26
+Punjab Kings,Rajasthan Royals,Rajasthan Royals,3 wickets,Mullanpur,"Apr 13, 2024",27
+Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,8 wickets,Eden Gardens,"Apr 14, 2024",28
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,20 runs,Wankhede,"Apr 14, 2024",29
+Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,25 runs,Bengaluru,"Apr 15, 2024",30
+Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,2 wickets,Eden Gardens,"Apr 16, 2024",31
+Gujarat Titans,Delhi Capitals,Delhi Capitals,6 wickets,Ahmedabad,"Apr 17, 2024",32
+Punjab Kings,Mumbai Indians,Mumbai Indians,9 runs,Mullanpur,"Apr 18, 2024",33
+Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,8 wickets,Lucknow,"Apr 19, 2024",34
+Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,67 runs,Delhi,"Apr 20, 2024",35
+Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,1 run,Eden Gardens,"Apr 21, 2024",10
+Punjab Kings,Gujarat Titans,Gujarat Titans,3 wickets,Mullanpur,"Apr 21, 2024",17
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,9 wickets,Jaipur,"Apr 22, 2024",14
+Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,6 wickets,Chennai,"Apr 23, 2024",34
+Delhi Capitals,Gujarat Titans,Delhi Capitals,4 runs,Delhi,"Apr 24, 2024",32
+Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,35 runs,Hyderabad,"Apr 25, 2024",30
+Kolkata Knight Riders,Punjab Kings,Punjab Kings,8 wickets,Eden Gardens,"Apr 26, 2024",36
+Delhi Capitals,Mumbai Indians,Delhi Capitals,10 runs,Delhi,"Apr 27, 2024",20
+Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,7 wickets,Lucknow,"Apr 27, 2024",4
+Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,9 wickets,Ahmedabad,"Apr 28, 2024",37
+Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,78 runs,Chennai,"Apr 28, 2024",18
+Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,7 wickets,Eden Gardens,"Apr 29, 2024",16
+Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,4 wickets,Lucknow,"Apr 30, 2024",38
+Chennai Super Kings,Punjab Kings,Punjab Kings,7 wickets,Chennai,"May 1, 2024",39
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,1 run,Hyderabad,"May 2, 2024",40
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,24 runs,Wankhede,"May 3, 2024",41
+Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,4 wickets,Bengaluru,"May 4, 2024",37
+Punjab Kings,Chennai Super Kings,Chennai Super Kings,28 runs,Dharamsala,"May 5, 2024",39
+Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,98 runs,Lucknow,"May 5, 2024",28
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,7 wickets,Wankhede,"May 6, 2024",8
+Delhi Capitals,Rajasthan Royals,Delhi Capitals,20 runs,Delhi,"May 7, 2024",9
+Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,10 wickets,Hyderabad,"May 8, 2024",42
+Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,60 runs,Dharamsala,"May 9, 2024",6
+Gujarat Titans,Chennai Super Kings,Gujarat Titans,35 runs,Ahmedabad,"May 10, 2024",7
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,18 runs,Eden Gardens,"May 11, 2024",41
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,5 wickets,Chennai,"May 12, 2024",43
+Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,47 runs,Bengaluru,"May 12, 2024",44
+Delhi Capitals,Lucknow Super Giants,Delhi Capitals,19 runs,Delhi,"May 14, 2024",26
+Rajasthan Royals,Punjab Kings,Punjab Kings,5 wickets,Guwahati,"May 15, 2024",27
+Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,18 runs,Wankhede,"May 17, 2024",38
+Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,27 runs,Bengaluru,"May 18, 2024",1
+Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,4 wickets,Hyderabad,"May 19, 2024",23
+Rajasthan Royals,Kolkata Knight Riders,,-,Guwahati,"May 19, 2024",31
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,8 wickets,Ahmedabad,"May 21, 2024",3
+Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,4 wickets,Ahmedabad,"May 22, 2024",19
+Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,36 runs,Chennai,"May 24, 2024",40
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,8 wickets,Chennai,"May 26, 2024",3

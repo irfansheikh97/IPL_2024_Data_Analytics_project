@@ -1,0 +1,858 @@
+match,bowlingTeam,bowlerName,overs,maiden,runs,wickets,economy,0s,4s,6s,wides,noBalls,match_id
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Glenn Maxwell,1,0,7,0,7.00,4,0,1,0,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Cameron Green,3,0,27,2,9.00,5,1,1,3,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Mayank Dagar,2,0,6,0,3.00,6,0,0,0,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Karn Sharma,2,0,24,1,12.00,4,0,3,0,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Alzarri Joseph,3.4,0,38,0,10.36,5,1,2,4,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Yash Dayal,3,0,28,1,9.33,8,3,1,0,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Mohammed Siraj,4,0,38,0,9.50,9,5,1,1,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,4,0,21,0,5.25,8,1,0,0,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Chennai Super Kings,Mustafizur Rahman,4,0,29,4,7.25,12,3,1,2,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Chennai Super Kings,Maheesh Theekshana,4,0,36,0,9.00,4,1,2,0,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Chennai Super Kings,Tushar Deshpande,4,0,47,0,11.75,10,4,3,5,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Chennai Super Kings,Deepak Chahar,4,0,37,1,9.25,10,7,0,2,0,1
+Delhi Capitals Vs Punjab Kings,Delhi Capitals,Sumit Kumar,1.2,0,19,0,14.25,2,2,1,2,0,2
+Delhi Capitals Vs Punjab Kings,Delhi Capitals,Kuldeep Yadav,4,0,20,2,5.00,7,1,0,0,0,2
+Delhi Capitals Vs Punjab Kings,Delhi Capitals,Axar Patel,4,0,25,0,6.25,5,1,0,0,0,2
+Delhi Capitals Vs Punjab Kings,Delhi Capitals,Mitchell Marsh,4,0,52,0,13.00,5,5,3,1,0,2
+Delhi Capitals Vs Punjab Kings,Delhi Capitals,Ishant Sharma,2,0,16,1,8.00,8,3,0,3,0,2
+Delhi Capitals Vs Punjab Kings,Delhi Capitals,Khaleel Ahmed,4,0,43,2,10.75,7,8,0,0,0,2
+Delhi Capitals Vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,47,2,11.75,7,6,2,0,0,2
+Delhi Capitals Vs Punjab Kings,Punjab Kings,Rahul Chahar,4,0,33,1,8.25,6,3,1,0,0,2
+Delhi Capitals Vs Punjab Kings,Punjab Kings,Harpreet Brar,3,0,14,1,4.66,7,1,0,0,0,2
+Delhi Capitals Vs Punjab Kings,Punjab Kings,Kagiso Rabada,4,0,36,1,9.00,12,1,4,1,0,2
+Delhi Capitals Vs Punjab Kings,Punjab Kings,Arshdeep Singh,4,0,28,2,7.00,15,2,2,2,0,2
+Delhi Capitals Vs Punjab Kings,Punjab Kings,Sam Curran,1,0,10,0,10.00,3,2,0,1,0,2
+Kolkata Knight Riders Vs Sunrisers Hyderabad,Kolkata Knight Riders,Suyash Sharma,2,0,18,0,9.00,3,1,1,0,0,3
+Kolkata Knight Riders Vs Sunrisers Hyderabad,Kolkata Knight Riders,Andre Russell,2,0,25,2,12.50,4,4,1,0,0,3
+Kolkata Knight Riders Vs Sunrisers Hyderabad,Kolkata Knight Riders,Sunil Narine,4,0,19,1,4.75,8,0,0,0,0,3
+Kolkata Knight Riders Vs Sunrisers Hyderabad,Kolkata Knight Riders,Varun Chakravarthy,4,0,55,1,13.75,8,1,7,0,0,3
+Kolkata Knight Riders Vs Sunrisers Hyderabad,Kolkata Knight Riders,Harshit Rana,4,0,33,3,8.25,12,3,2,0,0,3
+Kolkata Knight Riders Vs Sunrisers Hyderabad,Kolkata Knight Riders,Mitchell Starc,4,0,53,0,13.25,8,3,4,2,0,3
+Kolkata Knight Riders Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Ahmed,1,0,14,0,14.00,2,1,1,0,1,3
+Kolkata Knight Riders Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Mayank Markande,4,0,39,2,9.75,10,1,4,0,0,3
+Kolkata Knight Riders Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Pat Cummins,4,0,32,1,8.00,8,3,1,0,0,3
+Kolkata Knight Riders Vs Sunrisers Hyderabad,Sunrisers Hyderabad,T Natarajan,4,0,32,3,8.00,9,3,1,3,0,3
+Kolkata Knight Riders Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Marco Jansen,3,0,40,0,13.33,5,1,4,1,0,3
+Kolkata Knight Riders Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Bhuvneshwar Kumar,4,0,51,0,12.75,7,4,3,2,1,3
+Rajasthan Royals Vs Lucknow Super Giants,Rajasthan Royals,Sandeep Sharma,3,0,22,1,7.33,6,3,0,1,0,4
+Rajasthan Royals Vs Lucknow Super Giants,Rajasthan Royals,Yuzvendra Chahal,3,0,25,1,8.33,6,0,2,1,0,4
+Rajasthan Royals Vs Lucknow Super Giants,Rajasthan Royals,Avesh Khan,3,0,21,0,7.00,4,0,1,1,0,4
+Rajasthan Royals Vs Lucknow Super Giants,Rajasthan Royals,Ravichandran Ashwin,4,0,35,1,8.75,4,1,1,1,0,4
+Rajasthan Royals Vs Lucknow Super Giants,Rajasthan Royals,Nandre Burger,3,0,30,1,10.00,8,3,2,0,0,4
+Rajasthan Royals Vs Lucknow Super Giants,Rajasthan Royals,Trent Boult,4,0,35,2,8.75,12,4,2,0,0,4
+Rajasthan Royals Vs Lucknow Super Giants,Lucknow Super Giants,Ayush Badoni,1,0,6,0,6.00,1,0,0,0,0,4
+Rajasthan Royals Vs Lucknow Super Giants,Lucknow Super Giants,Yash Thakur,3,0,43,0,14.33,3,1,4,1,1,4
+Rajasthan Royals Vs Lucknow Super Giants,Lucknow Super Giants,Ravi Bishnoi,4,0,38,1,9.50,5,1,3,0,0,4
+Rajasthan Royals Vs Lucknow Super Giants,Lucknow Super Giants,Krunal Pandya,4,0,19,0,4.75,6,0,0,0,0,4
+Rajasthan Royals Vs Lucknow Super Giants,Lucknow Super Giants,Naveen-ul-Haq,4,0,41,2,10.25,8,4,1,4,0,4
+Rajasthan Royals Vs Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,4,0,45,1,11.25,8,4,3,1,0,4
+Gujarat Titans Vs Mumbai Indians,Gujarat Titans,Mohit Sharma,4,0,32,2,8.00,7,3,0,1,0,5
+Gujarat Titans Vs Mumbai Indians,Gujarat Titans,Spencer Johnson,2,0,25,2,12.50,3,2,2,0,0,5
+Gujarat Titans Vs Mumbai Indians,Gujarat Titans,Sai Kishore,4,0,24,1,6.00,9,1,1,0,0,5
+Gujarat Titans Vs Mumbai Indians,Gujarat Titans,Rashid Khan,4,0,23,0,5.75,11,1,1,0,0,5
+Gujarat Titans Vs Mumbai Indians,Gujarat Titans,Umesh Yadav,3,0,31,2,10.33,9,4,2,0,0,5
+Gujarat Titans Vs Mumbai Indians,Gujarat Titans,Azmatullah Omarzai,3,0,27,2,9.00,10,4,1,2,0,5
+Gujarat Titans Vs Mumbai Indians,Mumbai Indians,Gerald Coetzee,4,0,27,2,6.75,7,2,0,0,0,5
+Gujarat Titans Vs Mumbai Indians,Mumbai Indians,Naman Dhir,1,0,13,0,13.00,0,2,0,0,0,5
+Gujarat Titans Vs Mumbai Indians,Mumbai Indians,Piyush Chawla,3,0,31,1,10.33,4,0,2,1,0,5
+Gujarat Titans Vs Mumbai Indians,Mumbai Indians,Shams Mulani,3,0,24,0,8.00,6,1,1,1,0,5
+Gujarat Titans Vs Mumbai Indians,Mumbai Indians,Jasprit Bumrah,4,0,14,3,3.50,14,1,0,0,0,5
+Gujarat Titans Vs Mumbai Indians,Mumbai Indians,Luke Wood,2,0,25,0,12.50,4,3,1,1,1,5
+Gujarat Titans Vs Mumbai Indians,Mumbai Indians,Hardik Pandya,3,0,30,0,10.00,5,5,0,0,0,5
+Punjab Kings Vs Royal Challengers Bengaluru,Punjab Kings,Rahul Chahar,1,0,16,0,16.00,1,0,2,0,0,6
+Punjab Kings Vs Royal Challengers Bengaluru,Punjab Kings,Harshal Patel,4,0,45,1,11.25,6,4,2,3,0,6
+Punjab Kings Vs Royal Challengers Bengaluru,Punjab Kings,Harpreet Brar,4,0,13,2,3.25,12,0,0,0,0,6
+Punjab Kings Vs Royal Challengers Bengaluru,Punjab Kings,Kagiso Rabada,4,0,23,2,5.75,13,3,0,1,0,6
+Punjab Kings Vs Royal Challengers Bengaluru,Punjab Kings,Arshdeep Singh,3.2,0,40,0,12.00,9,5,2,3,0,6
+Punjab Kings Vs Royal Challengers Bengaluru,Punjab Kings,Sam Curran,3,0,30,1,10.00,7,6,0,0,0,6
+Punjab Kings Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Glenn Maxwell,3,0,29,2,9.66,6,2,2,0,0,6
+Punjab Kings Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mayank Dagar,3,0,34,0,11.33,4,1,3,0,0,6
+Punjab Kings Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Cameron Green,2,0,19,0,9.50,3,1,1,1,0,6
+Punjab Kings Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Alzarri Joseph,4,0,43,1,10.75,8,4,2,2,0,6
+Punjab Kings Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Yash Dayal,4,0,23,1,5.75,13,3,0,2,0,6
+Punjab Kings Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mohammed Siraj,4,0,26,2,6.50,12,4,0,0,0,6
+Chennai Super Kings Vs Gujarat Titans,Chennai Super Kings,Matheesha Pathirana,4,0,29,1,7.25,13,2,1,4,0,7
+Chennai Super Kings Vs Gujarat Titans,Chennai Super Kings,Daryl Mitchell,2,0,18,1,9.00,2,2,0,1,0,7
+Chennai Super Kings Vs Gujarat Titans,Chennai Super Kings,Ravindra Jadeja,2,0,15,0,7.50,2,1,0,0,0,7
+Chennai Super Kings Vs Gujarat Titans,Chennai Super Kings,Tushar Deshpande,4,0,21,2,5.25,12,1,1,0,0,7
+Chennai Super Kings Vs Gujarat Titans,Chennai Super Kings,Mustafizur Rahman,4,0,30,2,7.50,10,5,0,0,0,7
+Chennai Super Kings Vs Gujarat Titans,Chennai Super Kings,Deepak Chahar,4,0,28,2,7.00,11,2,1,3,0,7
+Chennai Super Kings Vs Gujarat Titans,Gujarat Titans,Mohit Sharma,4,0,36,1,9.00,4,2,1,1,0,7
+Chennai Super Kings Vs Gujarat Titans,Gujarat Titans,Spencer Johnson,4,0,35,1,8.75,8,3,2,0,0,7
+Chennai Super Kings Vs Gujarat Titans,Gujarat Titans,Sai Kishore,3,0,28,1,9.33,6,0,2,2,0,7
+Chennai Super Kings Vs Gujarat Titans,Gujarat Titans,Rashid Khan,4,0,49,2,12.25,4,4,3,0,0,7
+Chennai Super Kings Vs Gujarat Titans,Gujarat Titans,Umesh Yadav,2,0,27,0,13.50,5,3,2,1,0,7
+Chennai Super Kings Vs Gujarat Titans,Gujarat Titans,Azmatullah Omarzai,3,0,30,0,10.00,7,4,1,1,0,7
+Sunrisers Hyderabad Vs Mumbai Indians,Sunrisers Hyderabad,Mayank Markande,4,0,52,0,13.00,5,3,4,1,1,8
+Sunrisers Hyderabad Vs Mumbai Indians,Sunrisers Hyderabad,Umran Malik,1,0,15,0,15.00,2,0,2,1,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Sunrisers Hyderabad,Pat Cummins,4,0,35,2,8.75,7,1,2,1,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Sunrisers Hyderabad,Shahbaz Ahmed,3,0,39,1,13.00,5,1,4,0,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Sunrisers Hyderabad,Jaydev Unadkat,4,0,47,2,11.75,6,4,3,2,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Sunrisers Hyderabad,Bhuvneshwar Kumar,4,0,53,0,13.25,7,3,5,0,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Mumbai Indians,Shams Mulani,2,0,33,0,16.50,1,1,3,2,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Mumbai Indians,Piyush Chawla,2,0,34,1,17.00,1,0,4,0,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Mumbai Indians,Gerald Coetzee,4,0,57,1,14.25,3,4,3,2,1,8
+Sunrisers Hyderabad Vs Mumbai Indians,Mumbai Indians,Jasprit Bumrah,4,0,36,0,9.00,4,2,1,1,1,8
+Sunrisers Hyderabad Vs Mumbai Indians,Mumbai Indians,Hardik Pandya,4,0,46,1,11.50,5,5,2,0,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Mumbai Indians,Kwena Maphaka,4,0,66,0,16.50,7,7,5,3,0,8
+Rajasthan Royals Vs Delhi Capitals,Rajasthan Royals,Sandeep Sharma,4,0,36,0,9.00,3,2,1,2,0,9
+Rajasthan Royals Vs Delhi Capitals,Rajasthan Royals,Yuzvendra Chahal,3,0,19,2,6.33,7,0,1,0,0,9
+Rajasthan Royals Vs Delhi Capitals,Rajasthan Royals,Avesh Khan,4,0,29,1,7.25,8,4,0,1,0,9
+Rajasthan Royals Vs Delhi Capitals,Rajasthan Royals,Ravichandran Ashwin,3,0,30,0,10.00,4,1,2,1,0,9
+Rajasthan Royals Vs Delhi Capitals,Rajasthan Royals,Nandre Burger,3,0,29,2,9.66,9,5,1,0,0,9
+Rajasthan Royals Vs Delhi Capitals,Rajasthan Royals,Trent Boult,3,0,29,0,9.66,8,3,2,0,0,9
+Rajasthan Royals Vs Delhi Capitals,Delhi Capitals,Kuldeep Yadav,4,0,41,1,10.25,5,1,3,2,0,9
+Rajasthan Royals Vs Delhi Capitals,Delhi Capitals,Axar Patel,4,0,21,1,5.25,6,1,0,0,0,9
+Rajasthan Royals Vs Delhi Capitals,Delhi Capitals,Anrich Nortje,4,0,48,1,12.00,8,4,4,0,0,9
+Rajasthan Royals Vs Delhi Capitals,Delhi Capitals,Mukesh Kumar,4,0,49,1,12.25,8,7,2,1,0,9
+Rajasthan Royals Vs Delhi Capitals,Delhi Capitals,Khaleel Ahmed,4,0,24,1,6.00,14,2,1,2,0,9
+Royal Challengers Bengaluru Vs Kolkata Knight Riders,Royal Challengers Bengaluru,Cameron Green,1,0,7,0,7.00,2,1,0,0,0,10
+Royal Challengers Bengaluru Vs Kolkata Knight Riders,Royal Challengers Bengaluru,Vijaykumar Vyshak,4,0,23,1,5.75,6,1,0,0,0,10
+Royal Challengers Bengaluru Vs Kolkata Knight Riders,Royal Challengers Bengaluru,Mayank Dagar,2.5,0,23,1,8.11,6,0,2,0,0,10
+Royal Challengers Bengaluru Vs Kolkata Knight Riders,Royal Challengers Bengaluru,Alzarri Joseph,2,0,34,0,17.00,5,2,4,0,0,10
+Royal Challengers Bengaluru Vs Kolkata Knight Riders,Royal Challengers Bengaluru,Yash Dayal,4,0,46,1,11.50,8,4,2,2,0,10
+Royal Challengers Bengaluru Vs Kolkata Knight Riders,Royal Challengers Bengaluru,Mohammed Siraj,3,0,46,0,15.33,3,1,5,2,0,10
+Royal Challengers Bengaluru Vs Kolkata Knight Riders,Kolkata Knight Riders,Varun Chakravarthy,2,0,20,0,10.00,3,2,1,0,0,10
+Royal Challengers Bengaluru Vs Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,4,0,29,2,7.25,12,0,3,1,0,10
+Royal Challengers Bengaluru Vs Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,4,0,40,1,10.00,6,3,2,0,0,10
+Royal Challengers Bengaluru Vs Kolkata Knight Riders,Kolkata Knight Riders,Anukul Roy,2,0,6,0,3.00,7,0,0,0,0,10
+Royal Challengers Bengaluru Vs Kolkata Knight Riders,Kolkata Knight Riders,Harshit Rana,4,0,39,2,9.75,6,2,2,1,0,10
+Royal Challengers Bengaluru Vs Kolkata Knight Riders,Kolkata Knight Riders,Mitchell Starc,4,0,47,0,11.75,7,4,3,1,0,10
+Lucknow Super Giants Vs Punjab Kings,Lucknow Super Giants,Mayank Yadav,4,0,27,3,6.75,12,3,1,0,0,11
+Lucknow Super Giants Vs Punjab Kings,Lucknow Super Giants,Ravi Bishnoi,3,0,25,0,8.33,7,1,2,0,0,11
+Lucknow Super Giants Vs Punjab Kings,Lucknow Super Giants,Krunal Pandya,3,0,26,0,8.66,5,1,2,0,0,11
+Lucknow Super Giants Vs Punjab Kings,Lucknow Super Giants,Mohsin Khan,4,0,34,2,8.50,10,3,2,1,0,11
+Lucknow Super Giants Vs Punjab Kings,Lucknow Super Giants,Naveen-ul-Haq,4,0,43,0,10.75,5,4,2,1,0,11
+Lucknow Super Giants Vs Punjab Kings,Lucknow Super Giants,Manimaran Siddharth,2,0,21,0,10.50,5,3,1,0,0,11
+Lucknow Super Giants Vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,45,0,11.25,6,5,1,4,0,11
+Lucknow Super Giants Vs Punjab Kings,Punjab Kings,Harpreet Brar,2,0,14,0,7.00,4,0,1,0,0,11
+Lucknow Super Giants Vs Punjab Kings,Punjab Kings,Rahul Chahar,3,0,42,1,14.00,1,1,4,0,0,11
+Lucknow Super Giants Vs Punjab Kings,Punjab Kings,Kagiso Rabada,4,0,38,1,9.50,10,4,2,0,0,11
+Lucknow Super Giants Vs Punjab Kings,Punjab Kings,Arshdeep Singh,3,0,30,2,10.00,5,3,1,1,0,11
+Lucknow Super Giants Vs Punjab Kings,Punjab Kings,Sam Curran,4,0,28,3,7.00,10,2,1,0,0,11
+Sunrisers Hyderabad Vs Gujarat Titans,Sunrisers Hyderabad,Pat Cummins,4,0,28,1,7.00,7,3,0,1,0,12
+Sunrisers Hyderabad Vs Gujarat Titans,Sunrisers Hyderabad,Mayank Markande,3,0,33,1,11.00,4,2,2,2,0,12
+Sunrisers Hyderabad Vs Gujarat Titans,Sunrisers Hyderabad,Washington Sundar,3,0,27,0,9.00,1,2,0,0,0,12
+Sunrisers Hyderabad Vs Gujarat Titans,Sunrisers Hyderabad,Jaydev Unadkat,3.1,0,33,0,10.42,5,3,2,0,0,12
+Sunrisers Hyderabad Vs Gujarat Titans,Sunrisers Hyderabad,Shahbaz Ahmed,2,0,20,1,10.00,2,0,2,0,0,12
+Sunrisers Hyderabad Vs Gujarat Titans,Sunrisers Hyderabad,Bhuvneshwar Kumar,4,0,27,0,6.75,9,3,0,1,0,12
+Sunrisers Hyderabad Vs Gujarat Titans,Gujarat Titans,Darshan Nalkande,2,0,18,0,9.00,2,0,1,1,0,12
+Sunrisers Hyderabad Vs Gujarat Titans,Gujarat Titans,Mohit Sharma,4,0,25,3,6.25,6,0,1,0,0,12
+Sunrisers Hyderabad Vs Gujarat Titans,Gujarat Titans,Noor Ahmad,4,0,32,1,8.00,10,2,2,0,0,12
+Sunrisers Hyderabad Vs Gujarat Titans,Gujarat Titans,Rashid Khan,4,0,33,1,8.25,7,1,2,0,0,12
+Sunrisers Hyderabad Vs Gujarat Titans,Gujarat Titans,Umesh Yadav,3,0,28,1,9.33,8,5,0,0,0,12
+Sunrisers Hyderabad Vs Gujarat Titans,Gujarat Titans,Azmatullah Omarzai,3,0,24,1,8.00,9,4,0,1,0,12
+Delhi Capitals Vs Chennai Super Kings,Delhi Capitals,Mukesh Kumar,3,0,21,3,7.00,8,3,0,1,0,13
+Delhi Capitals Vs Chennai Super Kings,Delhi Capitals,Mitchell Marsh,1,0,14,0,14.00,0,2,0,1,0,13
+Delhi Capitals Vs Chennai Super Kings,Delhi Capitals,Rasikh Salam,2,0,25,0,12.50,2,1,2,0,0,13
+Delhi Capitals Vs Chennai Super Kings,Delhi Capitals,Axar Patel,3,0,20,1,6.66,5,0,1,0,0,13
+Delhi Capitals Vs Chennai Super Kings,Delhi Capitals,Anrich Nortje,4,0,43,0,10.75,7,3,3,1,0,13
+Delhi Capitals Vs Chennai Super Kings,Delhi Capitals,Ishant Sharma,3,0,23,0,7.66,7,3,0,1,1,13
+Delhi Capitals Vs Chennai Super Kings,Delhi Capitals,Khaleel Ahmed,4,1,21,2,5.25,15,1,1,4,0,13
+Delhi Capitals Vs Chennai Super Kings,Chennai Super Kings,Matheesha Pathirana,4,0,31,3,7.75,10,3,1,2,0,13
+Delhi Capitals Vs Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,4,0,43,1,10.75,5,1,4,0,0,13
+Delhi Capitals Vs Chennai Super Kings,Chennai Super Kings,Mustafizur Rahman,4,0,47,1,11.75,5,6,1,1,2,13
+Delhi Capitals Vs Chennai Super Kings,Chennai Super Kings,Tushar Deshpande,4,0,24,0,6.00,12,3,0,2,0,13
+Delhi Capitals Vs Chennai Super Kings,Chennai Super Kings,Deepak Chahar,4,0,42,0,10.50,9,3,3,0,0,13
+Mumbai Indians Vs Rajasthan Royals,Mumbai Indians,Piyush Chawla,3,0,18,0,6.00,6,0,1,0,0,14
+Mumbai Indians Vs Rajasthan Royals,Mumbai Indians,Gerald Coetzee,2.3,0,36,0,14.40,5,5,2,0,0,14
+Mumbai Indians Vs Rajasthan Royals,Mumbai Indians,Akash Madhwal,4,0,20,3,5.00,9,1,0,1,0,14
+Mumbai Indians Vs Rajasthan Royals,Mumbai Indians,Jasprit Bumrah,4,0,26,0,6.50,16,3,0,5,0,14
+Mumbai Indians Vs Rajasthan Royals,Mumbai Indians,Kwena Maphaka,2,0,23,1,11.50,5,5,0,0,0,14
+Mumbai Indians Vs Rajasthan Royals,Rajasthan Royals,Ravichandran Ashwin,4,0,27,0,6.75,6,1,0,1,0,14
+Mumbai Indians Vs Rajasthan Royals,Rajasthan Royals,Yuzvendra Chahal,4,0,11,3,2.75,16,1,0,0,0,14
+Mumbai Indians Vs Rajasthan Royals,Rajasthan Royals,Avesh Khan,4,0,30,1,7.50,10,2,1,1,0,14
+Mumbai Indians Vs Rajasthan Royals,Rajasthan Royals,Nandre Burger,4,0,32,2,8.00,15,5,1,1,0,14
+Mumbai Indians Vs Rajasthan Royals,Rajasthan Royals,Trent Boult,4,0,22,3,5.50,14,1,1,1,0,14
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Lucknow Super Giants,Marcus Stoinis,1,0,9,1,9.00,3,0,0,1,0,15
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Lucknow Super Giants,Yash Thakur,4,0,38,1,9.50,7,2,3,0,0,15
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Lucknow Super Giants,Ravi Bishnoi,3,0,33,0,11.00,6,1,3,2,0,15
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Lucknow Super Giants,Mayank Yadav,4,0,14,3,3.50,17,2,0,0,0,15
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Lucknow Super Giants,Naveen-ul-Haq,3.4,0,25,2,6.81,14,2,2,1,0,15
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Lucknow Super Giants,Krunal Pandya,1,0,10,0,10.00,0,1,0,0,0,15
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Lucknow Super Giants,Manimaran Siddharth,3,0,21,1,7.00,7,3,0,0,0,15
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Cameron Green,2,0,25,0,12.50,3,2,2,0,0,15
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mayank Dagar,2,0,23,0,11.50,2,1,1,1,0,15
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Glenn Maxwell,4,0,23,2,5.75,12,0,2,1,0,15
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mohammed Siraj,4,0,47,1,11.75,11,2,5,3,0,15
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Yash Dayal,4,0,24,1,6.00,12,2,1,0,0,15
+Lucknow Super Giants Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Reece Topley,4,0,39,1,9.75,11,3,3,1,0,15
+Kolkata Knight Riders Vs Delhi Capitals,Kolkata Knight Riders,Venkatesh Iyer,1,0,28,0,28.00,0,4,2,0,0,16
+Kolkata Knight Riders Vs Delhi Capitals,Kolkata Knight Riders,Varun Chakravarthy,4,0,33,3,8.25,10,2,2,2,1,16
+Kolkata Knight Riders Vs Delhi Capitals,Kolkata Knight Riders,Sunil Narine,4,0,29,1,7.25,12,0,3,0,0,16
+Kolkata Knight Riders Vs Delhi Capitals,Kolkata Knight Riders,Andre Russell,1.2,0,14,1,10.50,4,0,2,0,0,16
+Kolkata Knight Riders Vs Delhi Capitals,Kolkata Knight Riders,Vaibhav Arora,4,0,27,3,6.75,13,4,0,3,0,16
+Kolkata Knight Riders Vs Delhi Capitals,Kolkata Knight Riders,Mitchell Starc,3,0,25,2,8.33,10,2,2,0,0,16
+Kolkata Knight Riders Vs Delhi Capitals,Delhi Capitals,Mitchell Marsh,3,0,37,1,12.33,4,3,2,4,0,16
+Kolkata Knight Riders Vs Delhi Capitals,Delhi Capitals,Axar Patel,1,0,18,0,18.00,1,1,2,0,0,16
+Kolkata Knight Riders Vs Delhi Capitals,Delhi Capitals,Sumit Kumar,2,0,19,0,9.50,2,1,1,0,0,16
+Kolkata Knight Riders Vs Delhi Capitals,Delhi Capitals,Rasikh Salam,3,0,47,0,15.66,5,4,4,1,0,16
+Kolkata Knight Riders Vs Delhi Capitals,Delhi Capitals,Anrich Nortje,4,0,59,3,14.75,6,5,4,2,0,16
+Kolkata Knight Riders Vs Delhi Capitals,Delhi Capitals,Ishant Sharma,3,0,43,2,14.33,6,5,3,0,0,16
+Kolkata Knight Riders Vs Delhi Capitals,Delhi Capitals,Khaleel Ahmed,4,0,43,1,10.75,12,3,2,6,1,16
+Gujarat Titans Vs Punjab Kings,Gujarat Titans,Darshan Nalkande,0.5,0,6,1,7.20,3,1,0,1,0,17
+Gujarat Titans Vs Punjab Kings,Gujarat Titans,Mohit Sharma,4,0,38,1,9.50,6,2,2,0,0,17
+Gujarat Titans Vs Punjab Kings,Gujarat Titans,Noor Ahmad,4,0,32,2,8.00,10,2,1,2,0,17
+Gujarat Titans Vs Punjab Kings,Gujarat Titans,Rashid Khan,4,0,40,1,10.00,8,2,3,0,0,17
+Gujarat Titans Vs Punjab Kings,Gujarat Titans,Umesh Yadav,3,0,35,1,11.66,6,4,2,0,0,17
+Gujarat Titans Vs Punjab Kings,Gujarat Titans,Azmatullah Omarzai,4,0,41,1,10.25,6,7,0,1,0,17
+Gujarat Titans Vs Punjab Kings,Punjab Kings,Sikandar Raza,2,0,22,0,11.00,2,4,0,0,0,17
+Gujarat Titans Vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,44,1,11.00,3,2,2,3,0,17
+Gujarat Titans Vs Punjab Kings,Punjab Kings,Sam Curran,2,0,18,0,9.00,4,3,0,0,0,17
+Gujarat Titans Vs Punjab Kings,Punjab Kings,Kagiso Rabada,4,0,44,2,11.00,6,5,2,1,0,17
+Gujarat Titans Vs Punjab Kings,Punjab Kings,Arshdeep Singh,4,0,33,0,8.25,6,4,0,0,0,17
+Gujarat Titans Vs Punjab Kings,Punjab Kings,Harpreet Brar,4,0,33,1,8.25,10,3,1,0,0,17
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Rachin Ravindra,1,0,3,0,3.00,3,0,0,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Moeen Ali,3,0,23,2,7.66,5,0,1,1,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Ravindra Jadeja,4,0,30,0,7.50,5,1,1,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Tushar Deshpande,2,0,20,0,10.00,5,4,0,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Maheesh Theekshana,4,0,27,1,6.75,9,3,0,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Mukesh Choudhary,1,0,27,0,27.00,2,2,3,0,1,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Deepak Chahar,3.1,0,32,1,10.10,9,2,3,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Jaydev Unadkat,4,0,29,1,7.25,8,3,0,1,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Ahmed,1,0,11,1,11.00,3,1,1,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Mayank Markande,2,0,21,0,10.50,0,1,1,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Pat Cummins,4,0,29,1,7.25,9,2,1,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,T Natarajan,4,0,39,1,9.75,6,3,2,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Bhuvneshwar Kumar,4,0,28,1,7.00,11,3,1,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Abhishek Sharma,1,0,7,0,7.00,2,1,0,0,0,18
+Royal Challengers Bengaluru Vs Rajasthan Royals,Royal Challengers Bengaluru,Himanshu Sharma,2,0,29,0,14.50,0,3,1,0,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Royal Challengers Bengaluru,Cameron Green,3.1,0,27,0,8.52,5,1,1,1,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Royal Challengers Bengaluru,Mayank Dagar,2,0,34,0,17.00,4,5,2,0,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Royal Challengers Bengaluru,Mohammed Siraj,4,0,35,1,8.75,5,3,1,1,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Royal Challengers Bengaluru,Yash Dayal,4,0,37,1,9.25,10,5,1,0,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Royal Challengers Bengaluru,Reece Topley,4,0,27,2,6.75,9,3,0,1,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Rajasthan Royals,Riyan Parag,1,0,10,0,10.00,1,0,1,0,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Rajasthan Royals,Yuzvendra Chahal,4,0,34,2,8.50,8,1,2,1,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Rajasthan Royals,Avesh Khan,4,0,46,0,11.50,3,8,0,0,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Rajasthan Royals,Ravichandran Ashwin,4,0,28,0,7.00,5,0,1,1,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Rajasthan Royals,Nandre Burger,4,0,33,1,8.25,11,3,1,2,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Rajasthan Royals,Trent Boult,3,0,30,0,10.00,5,2,2,1,0,19
+Mumbai Indians Vs Delhi Capitals,Mumbai Indians,Piyush Chawla,2,0,32,0,16.00,2,2,3,0,0,20
+Mumbai Indians Vs Delhi Capitals,Mumbai Indians,Mohammad Nabi,2,0,17,0,8.50,1,0,1,0,0,20
+Mumbai Indians Vs Delhi Capitals,Mumbai Indians,Romario Shepherd,4,0,54,1,13.50,4,3,4,1,0,20
+Mumbai Indians Vs Delhi Capitals,Mumbai Indians,Akash Madhwal,4,0,45,0,11.25,9,7,1,0,1,20
+Mumbai Indians Vs Delhi Capitals,Mumbai Indians,Jasprit Bumrah,4,0,22,2,5.50,11,3,0,0,0,20
+Mumbai Indians Vs Delhi Capitals,Mumbai Indians,Gerald Coetzee,4,0,34,4,8.50,11,3,2,0,0,20
+Mumbai Indians Vs Delhi Capitals,Delhi Capitals,Anrich Nortje,4,0,65,2,16.25,7,4,6,3,1,20
+Mumbai Indians Vs Delhi Capitals,Delhi Capitals,Lalit Yadav,1,0,15,0,15.00,1,3,0,0,0,20
+Mumbai Indians Vs Delhi Capitals,Delhi Capitals,Axar Patel,4,0,35,2,8.75,8,3,2,0,0,20
+Mumbai Indians Vs Delhi Capitals,Delhi Capitals,Jhye Richardson,4,0,40,0,10.00,8,2,3,1,0,20
+Mumbai Indians Vs Delhi Capitals,Delhi Capitals,Ishant Sharma,3,0,40,0,13.33,5,4,1,4,0,20
+Mumbai Indians Vs Delhi Capitals,Delhi Capitals,Khaleel Ahmed,4,0,39,1,9.75,8,3,2,0,0,20
+Lucknow Super Giants Vs Gujarat Titans,Lucknow Super Giants,Ravi Bishnoi,2,0,8,1,4.00,5,0,0,1,0,21
+Lucknow Super Giants Vs Gujarat Titans,Lucknow Super Giants,Krunal Pandya,4,0,11,3,2.75,13,0,0,0,0,21
+Lucknow Super Giants Vs Gujarat Titans,Lucknow Super Giants,Yash Thakur,3.5,1,30,5,7.82,14,3,2,2,0,21
+Lucknow Super Giants Vs Gujarat Titans,Lucknow Super Giants,Mayank Yadav,1,0,13,0,13.00,2,3,0,0,0,21
+Lucknow Super Giants Vs Gujarat Titans,Lucknow Super Giants,Naveen-ul-Haq,4,0,37,1,9.25,7,3,1,1,1,21
+Lucknow Super Giants Vs Gujarat Titans,Lucknow Super Giants,Manimaran Siddharth,4,0,29,0,7.25,10,0,1,1,3,21
+Lucknow Super Giants Vs Gujarat Titans,Gujarat Titans,Darshan Nalkande,2,0,21,2,10.50,2,0,2,0,0,21
+Lucknow Super Giants Vs Gujarat Titans,Gujarat Titans,Noor Ahmad,4,0,22,0,5.50,7,1,0,0,0,21
+Lucknow Super Giants Vs Gujarat Titans,Gujarat Titans,Mohit Sharma,3,0,34,0,11.33,2,4,1,0,0,21
+Lucknow Super Giants Vs Gujarat Titans,Gujarat Titans,Rashid Khan,4,0,28,1,7.00,4,0,1,0,0,21
+Lucknow Super Giants Vs Gujarat Titans,Gujarat Titans,Spencer Johnson,4,0,32,0,8.00,12,4,1,1,0,21
+Lucknow Super Giants Vs Gujarat Titans,Gujarat Titans,Umesh Yadav,3,0,22,2,7.33,11,2,1,0,0,21
+Kolkata Knight Riders Vs Chennai Super Kings,Kolkata Knight Riders,Andre Russell,1,0,8,0,8.00,2,1,0,1,0,22
+Kolkata Knight Riders Vs Chennai Super Kings,Kolkata Knight Riders,Varun Chakravarthy,4,0,26,0,6.50,11,0,2,0,0,22
+Kolkata Knight Riders Vs Chennai Super Kings,Kolkata Knight Riders,Sunil Narine,4,0,30,1,7.50,5,1,1,0,0,22
+Kolkata Knight Riders Vs Chennai Super Kings,Kolkata Knight Riders,Anukul Roy,1.4,0,18,0,10.80,4,4,0,0,0,22
+Kolkata Knight Riders Vs Chennai Super Kings,Kolkata Knight Riders,Vaibhav Arora,4,0,28,2,7.00,11,3,1,0,0,22
+Kolkata Knight Riders Vs Chennai Super Kings,Kolkata Knight Riders,Mitchell Starc,3,0,29,0,9.66,7,5,0,2,0,22
+Kolkata Knight Riders Vs Chennai Super Kings,Chennai Super Kings,Rachin Ravindra,1,0,4,0,4.00,2,0,0,0,0,22
+Kolkata Knight Riders Vs Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,4,0,18,3,4.50,11,1,0,1,0,22
+Kolkata Knight Riders Vs Chennai Super Kings,Chennai Super Kings,Maheesh Theekshana,4,0,28,1,7.00,13,0,3,0,0,22
+Kolkata Knight Riders Vs Chennai Super Kings,Chennai Super Kings,Shardul Thakur,3,0,27,0,9.00,3,3,0,1,1,22
+Kolkata Knight Riders Vs Chennai Super Kings,Chennai Super Kings,Mustafizur Rahman,4,0,22,2,5.50,16,3,0,2,1,22
+Kolkata Knight Riders Vs Chennai Super Kings,Chennai Super Kings,Tushar Deshpande,4,0,33,3,8.25,12,4,1,2,0,22
+Sunrisers Hyderabad Vs Punjab Kings,Sunrisers Hyderabad,Shahbaz Ahmed,1,0,10,0,10.00,1,0,1,0,0,23
+Sunrisers Hyderabad Vs Punjab Kings,Sunrisers Hyderabad,Jaydev Unadkat,4,0,49,1,12.25,7,0,5,3,0,23
+Sunrisers Hyderabad Vs Punjab Kings,Sunrisers Hyderabad,Nitish Kumar Reddy,3,0,33,1,11.00,6,3,2,1,0,23
+Sunrisers Hyderabad Vs Punjab Kings,Sunrisers Hyderabad,T Natarajan,4,0,33,1,8.25,8,5,0,0,0,23
+Sunrisers Hyderabad Vs Punjab Kings,Sunrisers Hyderabad,Pat Cummins,4,0,22,1,5.50,11,3,0,0,0,23
+Sunrisers Hyderabad Vs Punjab Kings,Sunrisers Hyderabad,Bhuvneshwar Kumar,4,1,32,2,8.00,13,6,0,2,0,23
+Sunrisers Hyderabad Vs Punjab Kings,Punjab Kings,Harpreet Brar,4,0,48,0,12.00,7,5,3,0,0,23
+Sunrisers Hyderabad Vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,30,2,7.50,8,4,0,1,0,23
+Sunrisers Hyderabad Vs Punjab Kings,Punjab Kings,Sam Curran,4,0,41,2,10.25,9,2,3,1,0,23
+Sunrisers Hyderabad Vs Punjab Kings,Punjab Kings,Arshdeep Singh,4,0,29,4,7.25,12,3,1,2,0,23
+Sunrisers Hyderabad Vs Punjab Kings,Punjab Kings,Kagiso Rabada,4,0,32,1,8.00,13,4,1,1,0,23
+Rajasthan Royals Vs Gujarat Titans,Rajasthan Royals,Kuldeep Sen,4,0,41,3,10.25,7,5,0,4,1,24
+Rajasthan Royals Vs Gujarat Titans,Rajasthan Royals,Yuzvendra Chahal,4,0,43,2,10.75,4,6,0,1,0,24
+Rajasthan Royals Vs Gujarat Titans,Rajasthan Royals,Ravichandran Ashwin,4,0,40,0,10.00,4,4,1,0,0,24
+Rajasthan Royals Vs Gujarat Titans,Rajasthan Royals,Keshav Maharaj,2,0,16,0,8.00,3,0,1,0,0,24
+Rajasthan Royals Vs Gujarat Titans,Rajasthan Royals,Avesh Khan,4,0,48,1,12.00,3,4,2,2,0,24
+Rajasthan Royals Vs Gujarat Titans,Rajasthan Royals,Trent Boult,2,0,8,0,4.00,7,1,0,0,0,24
+Rajasthan Royals Vs Gujarat Titans,Gujarat Titans,Mohit Sharma,4,0,51,1,12.75,3,4,2,4,0,24
+Rajasthan Royals Vs Gujarat Titans,Gujarat Titans,Noor Ahmad,4,0,43,0,10.75,6,1,3,1,0,24
+Rajasthan Royals Vs Gujarat Titans,Gujarat Titans,Rashid Khan,4,0,18,1,4.50,10,1,0,0,0,24
+Rajasthan Royals Vs Gujarat Titans,Gujarat Titans,Spencer Johnson,4,0,37,0,9.25,6,4,1,0,0,24
+Rajasthan Royals Vs Gujarat Titans,Gujarat Titans,Umesh Yadav,4,0,47,1,11.75,9,6,2,2,0,24
+Royal Challengers Bengaluru Vs Mumbai Indians,Royal Challengers Bengaluru,Will Jacks,2,0,24,1,12.00,2,3,1,0,0,25
+Royal Challengers Bengaluru Vs Mumbai Indians,Royal Challengers Bengaluru,Vijaykumar Vyshak,3,0,32,1,10.66,6,3,2,0,0,25
+Royal Challengers Bengaluru Vs Mumbai Indians,Royal Challengers Bengaluru,Glenn Maxwell,1,0,17,0,17.00,0,2,1,0,0,25
+Royal Challengers Bengaluru Vs Mumbai Indians,Royal Challengers Bengaluru,Akash Deep,3.3,0,55,1,15.71,6,2,6,2,0,25
+Royal Challengers Bengaluru Vs Mumbai Indians,Royal Challengers Bengaluru,Mohammed Siraj,3,0,37,0,12.33,7,2,4,0,0,25
+Royal Challengers Bengaluru Vs Mumbai Indians,Royal Challengers Bengaluru,Reece Topley,3,0,34,0,11.33,8,6,1,1,0,25
+Royal Challengers Bengaluru Vs Mumbai Indians,Mumbai Indians,Hardik Pandya,1,0,13,0,13.00,2,0,1,2,0,25
+Royal Challengers Bengaluru Vs Mumbai Indians,Mumbai Indians,Romario Shepherd,2,0,22,0,11.00,1,3,0,0,0,25
+Royal Challengers Bengaluru Vs Mumbai Indians,Mumbai Indians,Shreyas Gopal,4,0,32,1,8.00,7,0,2,0,0,25
+Royal Challengers Bengaluru Vs Mumbai Indians,Mumbai Indians,Akash Madhwal,4,0,57,1,14.25,7,9,2,3,0,25
+Royal Challengers Bengaluru Vs Mumbai Indians,Mumbai Indians,Jasprit Bumrah,4,0,21,5,5.25,13,1,1,0,0,25
+Royal Challengers Bengaluru Vs Mumbai Indians,Mumbai Indians,Gerald Coetzee,4,0,42,1,10.50,13,1,5,3,0,25
+Royal Challengers Bengaluru Vs Mumbai Indians,Mumbai Indians,Mohammad Nabi,1,0,7,0,7.00,2,1,0,0,0,25
+Lucknow Super Giants Vs Delhi Capitals,Lucknow Super Giants,Marcus Stoinis,1,0,10,0,10.00,2,2,0,0,0,26
+Lucknow Super Giants Vs Delhi Capitals,Lucknow Super Giants,Ravi Bishnoi,4,0,25,2,6.25,12,2,1,0,0,26
+Lucknow Super Giants Vs Delhi Capitals,Lucknow Super Giants,Krunal Pandya,3,0,45,0,15.00,4,2,3,3,0,26
+Lucknow Super Giants Vs Delhi Capitals,Lucknow Super Giants,Yash Thakur,4,0,31,1,7.75,11,1,2,0,0,26
+Lucknow Super Giants Vs Delhi Capitals,Lucknow Super Giants,Naveen-ul-Haq,3,0,24,1,8.00,5,3,0,0,0,26
+Lucknow Super Giants Vs Delhi Capitals,Lucknow Super Giants,Arshad Khan,3.1,0,34,0,10.73,7,4,2,0,0,26
+Lucknow Super Giants Vs Delhi Capitals,Delhi Capitals,Kuldeep Yadav,4,0,20,3,5.00,10,0,0,1,0,26
+Lucknow Super Giants Vs Delhi Capitals,Delhi Capitals,Axar Patel,4,0,26,0,6.50,7,2,0,0,0,26
+Lucknow Super Giants Vs Delhi Capitals,Delhi Capitals,Mukesh Kumar,4,0,41,1,10.25,5,6,0,1,0,26
+Lucknow Super Giants Vs Delhi Capitals,Delhi Capitals,Ishant Sharma,4,0,36,1,9.00,6,4,0,4,0,26
+Lucknow Super Giants Vs Delhi Capitals,Delhi Capitals,Khaleel Ahmed,4,0,41,2,10.25,11,5,2,1,0,26
+Punjab Kings Vs Rajasthan Royals,Punjab Kings,Harpreet Brar,3,0,22,0,7.33,2,1,0,0,0,27
+Punjab Kings Vs Rajasthan Royals,Punjab Kings,Harshal Patel,2,0,21,1,10.50,1,1,1,0,0,27
+Punjab Kings Vs Rajasthan Royals,Punjab Kings,Liam Livingstone,3,0,21,1,7.00,9,2,1,1,0,27
+Punjab Kings Vs Rajasthan Royals,Punjab Kings,Sam Curran,4,0,25,2,6.25,9,3,0,1,0,27
+Punjab Kings Vs Rajasthan Royals,Punjab Kings,Kagiso Rabada,4,0,18,2,4.50,14,2,0,0,0,27
+Punjab Kings Vs Rajasthan Royals,Punjab Kings,Arshdeep Singh,3.5,0,45,1,11.73,8,3,3,1,0,27
+Punjab Kings Vs Rajasthan Royals,Rajasthan Royals,Keshav Maharaj,4,0,23,2,5.75,8,2,0,0,0,27
+Punjab Kings Vs Rajasthan Royals,Rajasthan Royals,Yuzvendra Chahal,4,0,31,1,7.75,6,0,2,2,1,27
+Punjab Kings Vs Rajasthan Royals,Rajasthan Royals,Avesh Khan,4,0,34,2,8.50,8,2,2,0,0,27
+Punjab Kings Vs Rajasthan Royals,Rajasthan Royals,Kuldeep Sen,4,0,35,1,8.75,9,3,2,0,0,27
+Punjab Kings Vs Rajasthan Royals,Rajasthan Royals,Trent Boult,4,0,22,1,5.50,11,2,0,2,0,27
+Lucknow Super Giants Vs Kolkata Knight Riders,Lucknow Super Giants,Ravi Bishnoi,2.4,0,17,0,6.37,7,2,0,2,0,28
+Lucknow Super Giants Vs Kolkata Knight Riders,Lucknow Super Giants,Arshad Khan,2,0,24,0,12.00,5,5,0,1,0,28
+Lucknow Super Giants Vs Kolkata Knight Riders,Lucknow Super Giants,Yash Thakur,2,0,25,0,12.50,3,5,0,1,0,28
+Lucknow Super Giants Vs Kolkata Knight Riders,Lucknow Super Giants,Krunal Pandya,1,0,14,0,14.00,1,3,0,0,0,28
+Lucknow Super Giants Vs Kolkata Knight Riders,Lucknow Super Giants,Mohsin Khan,4,0,29,2,7.25,12,2,2,1,0,28
+Lucknow Super Giants Vs Kolkata Knight Riders,Lucknow Super Giants,Shamar Joseph,4,0,47,0,11.75,12,4,2,3,3,28
+Lucknow Super Giants Vs Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,1,0,16,1,16.00,2,2,1,0,0,28
+Lucknow Super Giants Vs Kolkata Knight Riders,Kolkata Knight Riders,Varun Chakravarthy,4,0,30,1,7.50,9,1,2,2,0,28
+Lucknow Super Giants Vs Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,4,0,17,1,4.25,7,0,0,0,0,28
+Lucknow Super Giants Vs Kolkata Knight Riders,Kolkata Knight Riders,Harshit Rana,4,0,35,0,8.75,9,4,1,2,0,28
+Lucknow Super Giants Vs Kolkata Knight Riders,Kolkata Knight Riders,Vaibhav Arora,3,0,34,1,11.33,6,1,3,1,1,28
+Lucknow Super Giants Vs Kolkata Knight Riders,Kolkata Knight Riders,Mitchell Starc,4,0,28,3,7.00,13,5,0,1,0,28
+Chennai Super Kings Vs Mumbai Indians,Chennai Super Kings,Matheesha Pathirana,4,0,28,4,7.00,12,4,0,1,0,29
+Chennai Super Kings Vs Mumbai Indians,Chennai Super Kings,Ravindra Jadeja,4,0,37,0,9.25,8,5,1,0,0,29
+Chennai Super Kings Vs Mumbai Indians,Chennai Super Kings,Shardul Thakur,4,0,35,0,8.75,9,3,2,0,0,29
+Chennai Super Kings Vs Mumbai Indians,Chennai Super Kings,Mustafizur Rahman,4,0,55,1,13.75,5,4,4,3,0,29
+Chennai Super Kings Vs Mumbai Indians,Chennai Super Kings,Tushar Deshpande,4,0,29,1,7.25,9,3,1,0,0,29
+Chennai Super Kings Vs Mumbai Indians,Mumbai Indians,Romario Shepherd,2,0,33,0,16.50,2,4,2,0,0,29
+Chennai Super Kings Vs Mumbai Indians,Mumbai Indians,Hardik Pandya,3,0,43,2,14.33,6,4,3,2,0,29
+Chennai Super Kings Vs Mumbai Indians,Mumbai Indians,Shreyas Gopal,1,0,9,1,9.00,2,0,1,0,0,29
+Chennai Super Kings Vs Mumbai Indians,Mumbai Indians,Akash Madhwal,3,0,37,0,12.33,4,4,2,0,0,29
+Chennai Super Kings Vs Mumbai Indians,Mumbai Indians,Jasprit Bumrah,4,0,27,0,6.75,8,2,0,2,0,29
+Chennai Super Kings Vs Mumbai Indians,Mumbai Indians,Gerald Coetzee,4,0,35,1,8.75,13,4,2,1,0,29
+Chennai Super Kings Vs Mumbai Indians,Mumbai Indians,Mohammad Nabi,3,0,19,0,6.33,7,1,1,0,0,29
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Sunrisers Hyderabad,Jaydev Unadkat,2,0,37,0,18.50,1,5,2,1,0,30
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Sunrisers Hyderabad,Mayank Markande,4,0,46,2,11.50,5,1,4,3,0,30
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Sunrisers Hyderabad,Pat Cummins,4,0,43,3,10.75,10,4,3,1,0,30
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Sunrisers Hyderabad,T Natarajan,4,0,47,1,11.75,6,2,3,4,0,30
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Sunrisers Hyderabad,Shahbaz Ahmed,1,0,18,0,18.00,1,1,2,0,0,30
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Sunrisers Hyderabad,Bhuvneshwar Kumar,4,0,60,0,15.00,5,9,2,4,0,30
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Sunrisers Hyderabad,Abhishek Sharma,1,0,10,0,10.00,2,2,0,0,0,30
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mahipal Lomror,1,0,18,0,18.00,1,0,2,3,0,30
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Vijaykumar Vyshak,4,0,64,0,16.00,2,6,4,2,0,30
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Lockie Ferguson,4,0,52,2,13.00,8,2,6,0,0,30
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Yash Dayal,4,0,51,0,12.75,5,3,3,3,1,30
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Reece Topley,4,0,68,1,17.00,3,6,5,2,0,30
+Sunrisers Hyderabad Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Will Jacks,3,0,32,0,10.66,5,2,2,1,0,30
+Kolkata Knight Riders Vs Rajasthan Royals,Kolkata Knight Riders,Andre Russell,1,0,17,0,17.00,0,0,2,0,0,31
+Kolkata Knight Riders Vs Rajasthan Royals,Kolkata Knight Riders,Varun Chakravarthy,4,0,36,2,9.00,11,5,1,1,0,31
+Kolkata Knight Riders Vs Rajasthan Royals,Kolkata Knight Riders,Sunil Narine,4,0,30,2,7.50,12,1,2,2,0,31
+Kolkata Knight Riders Vs Rajasthan Royals,Kolkata Knight Riders,Harshit Rana,4,0,45,2,11.25,6,3,3,1,0,31
+Kolkata Knight Riders Vs Rajasthan Royals,Kolkata Knight Riders,Vaibhav Arora,3,0,45,1,15.00,4,5,3,0,1,31
+Kolkata Knight Riders Vs Rajasthan Royals,Kolkata Knight Riders,Mitchell Starc,4,0,50,0,12.50,7,6,1,5,0,31
+Kolkata Knight Riders Vs Rajasthan Royals,Rajasthan Royals,Ravichandran Ashwin,4,0,49,0,12.25,8,4,2,5,0,31
+Kolkata Knight Riders Vs Rajasthan Royals,Rajasthan Royals,Yuzvendra Chahal,4,0,54,1,13.50,4,4,4,1,0,31
+Kolkata Knight Riders Vs Rajasthan Royals,Rajasthan Royals,Kuldeep Sen,4,0,46,2,11.50,8,6,2,2,0,31
+Kolkata Knight Riders Vs Rajasthan Royals,Rajasthan Royals,Avesh Khan,4,0,35,2,8.75,10,5,1,1,0,31
+Kolkata Knight Riders Vs Rajasthan Royals,Rajasthan Royals,Trent Boult,4,0,31,1,7.75,11,5,0,0,0,31
+Gujarat Titans Vs Delhi Capitals,Gujarat Titans,Noor Ahmad,1.5,0,14,0,7.63,6,3,0,0,0,32
+Gujarat Titans Vs Delhi Capitals,Gujarat Titans,Rashid Khan,2,0,12,1,6.00,6,0,1,0,0,32
+Gujarat Titans Vs Delhi Capitals,Gujarat Titans,Spencer Johnson,2,0,22,1,11.00,6,3,1,2,0,32
+Gujarat Titans Vs Delhi Capitals,Gujarat Titans,Sandeep Warrier,3,0,40,2,13.33,8,3,4,0,0,32
+Gujarat Titans Vs Delhi Capitals,Delhi Capitals,Axar Patel,4,0,17,1,4.25,13,1,0,1,0,32
+Gujarat Titans Vs Delhi Capitals,Delhi Capitals,Tristan Stubbs,1,0,11,2,11.00,3,2,0,1,0,32
+Gujarat Titans Vs Delhi Capitals,Delhi Capitals,Kuldeep Yadav,4,0,16,0,4.00,13,0,1,0,0,32
+Gujarat Titans Vs Delhi Capitals,Delhi Capitals,Mukesh Kumar,2.3,0,14,3,5.60,9,1,0,1,2,32
+Gujarat Titans Vs Delhi Capitals,Delhi Capitals,Ishant Sharma,2,0,8,2,4.00,9,1,0,1,0,32
+Gujarat Titans Vs Delhi Capitals,Delhi Capitals,Khaleel Ahmed,4,1,18,1,4.50,16,3,0,1,0,32
+Mumbai Indians Vs Punjab Kings,Mumbai Indians,Romario Shepherd,2,0,20,0,10.00,6,1,2,0,0,33
+Mumbai Indians Vs Punjab Kings,Mumbai Indians,Shreyas Gopal,2,0,26,1,13.00,1,0,3,0,0,33
+Mumbai Indians Vs Punjab Kings,Mumbai Indians,Hardik Pandya,4,0,33,1,8.25,9,1,2,3,0,33
+Mumbai Indians Vs Punjab Kings,Mumbai Indians,Akash Madhwal,3.1,0,46,1,14.52,7,2,4,4,1,33
+Mumbai Indians Vs Punjab Kings,Mumbai Indians,Jasprit Bumrah,4,0,21,3,5.25,13,1,1,1,1,33
+Mumbai Indians Vs Punjab Kings,Mumbai Indians,Gerald Coetzee,4,0,32,3,8.00,13,5,0,2,0,33
+Mumbai Indians Vs Punjab Kings,Punjab Kings,Harpreet Brar,3,0,21,0,7.00,3,1,0,0,0,33
+Mumbai Indians Vs Punjab Kings,Punjab Kings,Sam Curran,4,0,41,2,10.25,10,3,3,2,0,33
+Mumbai Indians Vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,31,3,7.75,9,1,2,2,0,33
+Mumbai Indians Vs Punjab Kings,Punjab Kings,Kagiso Rabada,4,0,42,1,10.50,7,3,3,0,0,33
+Mumbai Indians Vs Punjab Kings,Punjab Kings,Arshdeep Singh,3,0,35,0,11.66,4,5,1,1,0,33
+Mumbai Indians Vs Punjab Kings,Punjab Kings,Liam Livingstone,2,0,16,0,8.00,4,1,1,0,0,33
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Moeen Ali,1,0,5,0,5.00,2,0,0,0,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Matheesha Pathirana,4,0,29,1,7.25,8,0,2,2,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Ravindra Jadeja,3,0,32,0,10.66,1,4,0,1,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Mustafizur Rahman,4,0,43,1,10.75,5,7,0,2,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Tushar Deshpande,4,0,42,0,10.50,9,5,1,4,1,34
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Deepak Chahar,3,0,26,0,8.66,8,2,2,0,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Lucknow Super Giants,Marcus Stoinis,2,0,7,1,3.50,6,0,0,0,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Lucknow Super Giants,Ravi Bishnoi,4,0,44,1,11.00,6,3,3,0,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Lucknow Super Giants,Krunal Pandya,3,0,16,2,5.33,6,1,0,0,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Lucknow Super Giants,Yash Thakur,4,0,45,1,11.25,6,6,1,0,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,4,0,37,1,9.25,7,2,2,3,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Lucknow Super Giants,Matt Henry,3,0,26,0,8.66,6,2,1,0,0,34
+Sunrisers Hyderabad Vs Delhi Capitals,Sunrisers Hyderabad,Nitish Kumar Reddy,2.1,0,17,2,7.84,3,0,1,1,0,35
+Sunrisers Hyderabad Vs Delhi Capitals,Sunrisers Hyderabad,Shahbaz Ahmed,1,0,22,0,22.00,0,3,1,0,0,35
+Sunrisers Hyderabad Vs Delhi Capitals,Sunrisers Hyderabad,Mayank Markande,2,0,26,2,13.00,3,0,3,2,0,35
+Sunrisers Hyderabad Vs Delhi Capitals,Sunrisers Hyderabad,T Natarajan,4,1,19,4,4.75,14,2,0,1,0,35
+Sunrisers Hyderabad Vs Delhi Capitals,Sunrisers Hyderabad,Pat Cummins,4,0,35,0,8.75,9,5,1,0,0,35
+Sunrisers Hyderabad Vs Delhi Capitals,Sunrisers Hyderabad,Bhuvneshwar Kumar,4,0,33,1,8.25,10,5,0,3,0,35
+Sunrisers Hyderabad Vs Delhi Capitals,Sunrisers Hyderabad,Washington Sundar,2,0,46,1,23.00,2,7,3,0,0,35
+Sunrisers Hyderabad Vs Delhi Capitals,Delhi Capitals,Axar Patel,4,0,29,1,7.25,4,1,1,0,0,35
+Sunrisers Hyderabad Vs Delhi Capitals,Delhi Capitals,Mukesh Kumar,4,0,57,1,14.25,4,7,3,0,0,35
+Sunrisers Hyderabad Vs Delhi Capitals,Delhi Capitals,Kuldeep Yadav,4,0,55,4,13.75,8,0,7,2,0,35
+Sunrisers Hyderabad Vs Delhi Capitals,Delhi Capitals,Anrich Nortje,3,0,31,0,10.33,6,4,1,1,0,35
+Sunrisers Hyderabad Vs Delhi Capitals,Delhi Capitals,Lalit Yadav,2,0,41,0,20.50,2,2,5,0,0,35
+Sunrisers Hyderabad Vs Delhi Capitals,Delhi Capitals,Khaleel Ahmed,3,0,51,0,17.00,4,4,5,0,0,35
+Kolkata Knight Riders Vs Royal Challengers Bengaluru,Kolkata Knight Riders,Andre Russell,3,0,25,3,8.33,10,3,1,1,0,10
+Kolkata Knight Riders Vs Royal Challengers Bengaluru,Kolkata Knight Riders,Suyash Sharma,2,0,33,0,16.50,2,2,3,1,0,10
+Kolkata Knight Riders Vs Royal Challengers Bengaluru,Kolkata Knight Riders,Sunil Narine,4,0,34,2,8.50,11,2,3,0,0,10
+Kolkata Knight Riders Vs Royal Challengers Bengaluru,Kolkata Knight Riders,Varun Chakravarthy,4,0,36,1,9.00,11,5,1,0,0,10
+Kolkata Knight Riders Vs Royal Challengers Bengaluru,Kolkata Knight Riders,Mitchell Starc,3,0,55,1,18.33,6,2,7,1,0,10
+Kolkata Knight Riders Vs Royal Challengers Bengaluru,Kolkata Knight Riders,Harshit Rana,4,0,33,2,8.25,9,2,2,1,0,10
+Kolkata Knight Riders Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Cameron Green,4,0,35,2,8.75,9,6,0,2,0,10
+Kolkata Knight Riders Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Karn Sharma,4,0,33,0,8.25,7,3,1,0,0,10
+Kolkata Knight Riders Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Lockie Ferguson,4,0,47,1,11.75,3,5,2,0,1,10
+Kolkata Knight Riders Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Yash Dayal,4,0,56,2,14.00,7,9,1,3,1,10
+Kolkata Knight Riders Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mohammed Siraj,4,0,40,1,10.00,13,4,3,2,0,10
+Punjab Kings Vs Gujarat Titans,Punjab Kings,Liam Livingstone,4,0,19,2,4.75,9,1,0,1,0,17
+Punjab Kings Vs Gujarat Titans,Punjab Kings,Harpreet Brar,4,0,35,0,8.75,7,3,1,0,0,17
+Punjab Kings Vs Gujarat Titans,Punjab Kings,Sam Curran,2,0,18,1,9.00,4,3,0,0,0,17
+Punjab Kings Vs Gujarat Titans,Punjab Kings,Harshal Patel,3,0,15,3,5.00,8,1,0,0,0,17
+Punjab Kings Vs Gujarat Titans,Punjab Kings,Arshdeep Singh,2.1,0,17,1,7.84,3,2,0,0,0,17
+Punjab Kings Vs Gujarat Titans,Punjab Kings,Kagiso Rabada,4,0,40,0,10.00,8,6,1,0,0,17
+Punjab Kings Vs Gujarat Titans,Gujarat Titans,M Shahrukh Khan,1,0,7,0,7.00,1,0,0,0,0,17
+Punjab Kings Vs Gujarat Titans,Gujarat Titans,Sai Kishore,4,0,33,4,8.25,11,2,2,1,0,17
+Punjab Kings Vs Gujarat Titans,Gujarat Titans,Noor Ahmad,4,0,20,2,5.00,10,2,0,0,0,17
+Punjab Kings Vs Gujarat Titans,Gujarat Titans,Rashid Khan,4,0,15,1,3.75,11,0,0,0,0,17
+Punjab Kings Vs Gujarat Titans,Gujarat Titans,Mohit Sharma,4,0,32,2,8.00,10,4,1,1,0,17
+Punjab Kings Vs Gujarat Titans,Gujarat Titans,Sandeep Warrier,1,0,21,0,21.00,2,3,1,0,1,17
+Punjab Kings Vs Gujarat Titans,Gujarat Titans,Azmatullah Omarzai,2,0,13,0,6.50,7,1,1,0,0,17
+Mumbai Indians Vs Rajasthan Royals,Mumbai Indians,Tilak Varma,0.4,0,8,0,12.00,0,1,0,0,0,14
+Mumbai Indians Vs Rajasthan Royals,Mumbai Indians,Piyush Chawla,4,0,33,1,8.25,8,2,2,0,0,14
+Mumbai Indians Vs Rajasthan Royals,Mumbai Indians,Mohammad Nabi,3,0,30,0,10.00,6,1,3,0,0,14
+Mumbai Indians Vs Rajasthan Royals,Mumbai Indians,Gerald Coetzee,2,0,25,0,12.50,7,2,2,3,0,14
+Mumbai Indians Vs Rajasthan Royals,Mumbai Indians,Nuwan Thushara,3,0,28,0,9.33,2,4,0,0,0,14
+Mumbai Indians Vs Rajasthan Royals,Mumbai Indians,Jasprit Bumrah,4,0,37,0,9.25,10,5,1,1,1,14
+Mumbai Indians Vs Rajasthan Royals,Mumbai Indians,Hardik Pandya,2,0,21,0,10.50,3,2,1,0,0,14
+Mumbai Indians Vs Rajasthan Royals,Rajasthan Royals,Yuzvendra Chahal,4,0,48,1,12.00,6,4,3,1,0,14
+Mumbai Indians Vs Rajasthan Royals,Rajasthan Royals,Ravichandran Ashwin,4,0,31,0,7.75,4,1,1,1,0,14
+Mumbai Indians Vs Rajasthan Royals,Rajasthan Royals,Avesh Khan,4,0,49,1,12.25,7,4,3,3,0,14
+Mumbai Indians Vs Rajasthan Royals,Rajasthan Royals,Sandeep Sharma,4,0,18,5,4.50,13,2,0,0,0,14
+Mumbai Indians Vs Rajasthan Royals,Rajasthan Royals,Trent Boult,4,0,32,2,8.00,10,3,1,3,0,14
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Matheesha Pathirana,4,0,35,2,8.75,8,5,0,2,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Ravindra Jadeja,2,0,16,0,8.00,3,0,1,0,1,34
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Moeen Ali,2,0,21,0,10.50,1,1,1,0,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Shardul Thakur,3,0,42,0,14.00,0,4,2,1,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Mustafizur Rahman,3.3,0,51,1,14.57,8,5,4,0,1,34
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Tushar Deshpande,3,0,34,0,11.33,6,2,2,0,1,34
+Chennai Super Kings Vs Lucknow Super Giants,Chennai Super Kings,Deepak Chahar,2,0,11,1,5.50,7,2,0,0,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Lucknow Super Giants,Krunal Pandya,2,0,15,0,7.50,3,2,0,0,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Lucknow Super Giants,Marcus Stoinis,4,0,49,0,12.25,5,3,3,1,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Lucknow Super Giants,Yash Thakur,4,0,47,1,11.75,9,3,4,1,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Lucknow Super Giants,Ravi Bishnoi,2,0,19,0,9.50,2,3,0,0,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,4,0,50,1,12.50,6,5,3,0,0,34
+Chennai Super Kings Vs Lucknow Super Giants,Lucknow Super Giants,Matt Henry,4,0,28,1,7.00,9,3,0,0,0,34
+Delhi Capitals Vs Gujarat Titans,Delhi Capitals,Kuldeep Yadav,4,0,29,2,7.25,5,2,0,1,0,32
+Delhi Capitals Vs Gujarat Titans,Delhi Capitals,Axar Patel,3,0,28,1,9.33,4,2,1,0,0,32
+Delhi Capitals Vs Gujarat Titans,Delhi Capitals,Mukesh Kumar,4,0,41,1,10.25,7,6,1,0,1,32
+Delhi Capitals Vs Gujarat Titans,Delhi Capitals,Rasikh Salam,4,0,44,3,11.00,8,4,3,1,0,32
+Delhi Capitals Vs Gujarat Titans,Delhi Capitals,Anrich Nortje,3,0,48,1,16.00,6,5,4,0,0,32
+Delhi Capitals Vs Gujarat Titans,Delhi Capitals,Khaleel Ahmed,2,0,26,0,13.00,2,3,1,1,0,32
+Delhi Capitals Vs Gujarat Titans,Gujarat Titans,Sai Kishore,1,0,22,0,22.00,0,2,2,0,0,32
+Delhi Capitals Vs Gujarat Titans,Gujarat Titans,M Shahrukh Khan,1,0,8,0,8.00,3,0,1,0,0,32
+Delhi Capitals Vs Gujarat Titans,Gujarat Titans,Mohit Sharma,4,0,73,0,18.25,2,4,7,1,0,32
+Delhi Capitals Vs Gujarat Titans,Gujarat Titans,Noor Ahmad,3,0,36,1,12.00,4,2,3,1,0,32
+Delhi Capitals Vs Gujarat Titans,Gujarat Titans,Rashid Khan,4,0,35,0,8.75,8,4,1,0,0,32
+Delhi Capitals Vs Gujarat Titans,Gujarat Titans,Sandeep Warrier,3,0,15,3,5.00,12,1,1,1,0,32
+Delhi Capitals Vs Gujarat Titans,Gujarat Titans,Azmatullah Omarzai,4,0,33,0,8.25,11,5,1,0,0,32
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Royal Challengers Bengaluru,Cameron Green,2,0,12,2,6.00,7,2,0,1,0,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Royal Challengers Bengaluru,Lockie Ferguson,2,0,28,0,14.00,2,2,2,0,0,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Royal Challengers Bengaluru,Karn Sharma,4,0,29,2,7.25,10,2,1,2,0,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Royal Challengers Bengaluru,Swapnil Singh,3,0,40,2,13.33,3,1,4,0,1,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Royal Challengers Bengaluru,Yash Dayal,3,0,18,1,6.00,8,1,0,3,0,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Royal Challengers Bengaluru,Mohammed Siraj,4,0,20,0,5.00,11,1,0,2,0,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Royal Challengers Bengaluru,Will Jacks,2,0,23,1,11.50,3,1,2,0,0,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Jaydev Unadkat,4,0,30,3,7.50,5,2,0,2,0,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Mayank Markande,3,0,42,1,14.00,2,0,5,1,0,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Ahmed,3,0,14,0,4.66,7,1,0,0,0,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Sunrisers Hyderabad,T Natarajan,4,0,39,2,9.75,7,3,2,1,0,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Pat Cummins,4,0,55,1,13.75,1,8,1,1,0,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Bhuvneshwar Kumar,1,0,14,0,14.00,1,3,0,0,0,30
+Royal Challengers Bengaluru Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Abhishek Sharma,1,0,10,0,10.00,0,1,0,0,0,30
+Kolkata Knight Riders Vs Punjab Kings,Kolkata Knight Riders,Ramandeep Singh,0.4,0,9,0,13.50,0,0,1,0,0,36
+Kolkata Knight Riders Vs Punjab Kings,Kolkata Knight Riders,Andre Russell,2,0,36,0,18.00,2,1,4,2,0,36
+Kolkata Knight Riders Vs Punjab Kings,Kolkata Knight Riders,Varun Chakravarthy,3,0,46,0,15.33,2,1,5,0,0,36
+Kolkata Knight Riders Vs Punjab Kings,Kolkata Knight Riders,Sunil Narine,4,0,24,1,6.00,12,2,1,0,0,36
+Kolkata Knight Riders Vs Punjab Kings,Kolkata Knight Riders,Anukul Roy,2,0,36,0,18.00,2,5,2,0,0,36
+Kolkata Knight Riders Vs Punjab Kings,Kolkata Knight Riders,Harshit Rana,4,0,61,0,15.25,5,3,6,1,0,36
+Kolkata Knight Riders Vs Punjab Kings,Kolkata Knight Riders,Dushmantha Chameera,3,0,48,0,16.00,6,3,5,1,0,36
+Kolkata Knight Riders Vs Punjab Kings,Punjab Kings,Harpreet Brar,2,0,21,0,10.50,3,0,2,0,0,36
+Kolkata Knight Riders Vs Punjab Kings,Punjab Kings,Rahul Chahar,4,0,33,1,8.25,9,4,1,0,0,36
+Kolkata Knight Riders Vs Punjab Kings,Punjab Kings,Kagiso Rabada,3,0,52,0,17.33,2,7,2,4,0,36
+Kolkata Knight Riders Vs Punjab Kings,Punjab Kings,Harshal Patel,3,0,48,1,16.00,6,3,5,1,1,36
+Kolkata Knight Riders Vs Punjab Kings,Punjab Kings,Arshdeep Singh,4,0,45,2,11.25,10,3,3,5,0,36
+Kolkata Knight Riders Vs Punjab Kings,Punjab Kings,Sam Curran,4,0,60,1,15.00,6,5,5,0,0,36
+Delhi Capitals Vs Mumbai Indians,Delhi Capitals,Rasikh Salam,4,0,34,3,8.50,8,1,2,3,0,20
+Delhi Capitals Vs Mumbai Indians,Delhi Capitals,Axar Patel,2,0,24,0,12.00,1,1,2,0,0,20
+Delhi Capitals Vs Mumbai Indians,Delhi Capitals,Kuldeep Yadav,3,0,47,0,15.66,2,5,3,1,0,20
+Delhi Capitals Vs Mumbai Indians,Delhi Capitals,Mukesh Kumar,4,0,59,3,14.75,6,5,5,0,0,20
+Delhi Capitals Vs Mumbai Indians,Delhi Capitals,Khaleel Ahmed,4,0,45,2,11.25,7,4,3,0,0,20
+Delhi Capitals Vs Mumbai Indians,Delhi Capitals,Lizaad Williams,3,0,34,0,11.33,6,4,0,3,1,20
+Delhi Capitals Vs Mumbai Indians,Mumbai Indians,Mohammad Nabi,2,0,20,1,10.00,2,0,2,0,0,20
+Delhi Capitals Vs Mumbai Indians,Mumbai Indians,Hardik Pandya,2,0,41,0,20.50,4,3,4,0,0,20
+Delhi Capitals Vs Mumbai Indians,Mumbai Indians,Piyush Chawla,4,0,36,1,9.00,7,2,2,2,0,20
+Delhi Capitals Vs Mumbai Indians,Mumbai Indians,Nuwan Thushara,4,0,56,0,14.00,3,6,3,2,0,20
+Delhi Capitals Vs Mumbai Indians,Mumbai Indians,Jasprit Bumrah,4,0,35,1,8.75,10,2,2,2,1,20
+Delhi Capitals Vs Mumbai Indians,Mumbai Indians,Luke Wood,4,0,68,1,17.00,5,9,4,0,0,20
+Lucknow Super Giants Vs Rajasthan Royals,Lucknow Super Giants,Ravi Bishnoi,1,0,16,0,16.00,1,2,1,0,0,4
+Lucknow Super Giants Vs Rajasthan Royals,Lucknow Super Giants,Amit Mishra,2,0,20,1,10.00,5,1,2,0,0,4
+Lucknow Super Giants Vs Rajasthan Royals,Lucknow Super Giants,Krunal Pandya,4,0,24,0,6.00,5,1,0,0,0,4
+Lucknow Super Giants Vs Rajasthan Royals,Lucknow Super Giants,Marcus Stoinis,1,0,3,1,3.00,3,0,0,0,0,4
+Lucknow Super Giants Vs Rajasthan Royals,Lucknow Super Giants,Yash Thakur,4,0,50,1,12.50,4,7,1,2,0,4
+Lucknow Super Giants Vs Rajasthan Royals,Lucknow Super Giants,Mohsin Khan,4,0,52,0,13.00,5,5,3,0,0,4
+Lucknow Super Giants Vs Rajasthan Royals,Lucknow Super Giants,Matt Henry,3,0,32,0,10.66,7,3,2,0,0,4
+Lucknow Super Giants Vs Rajasthan Royals,Rajasthan Royals,Yuzvendra Chahal,4,0,41,0,10.25,3,5,0,1,0,4
+Lucknow Super Giants Vs Rajasthan Royals,Rajasthan Royals,Ravichandran Ashwin,4,0,39,1,9.75,6,4,0,2,0,4
+Lucknow Super Giants Vs Rajasthan Royals,Rajasthan Royals,Avesh Khan,4,0,42,1,10.50,7,2,2,1,1,4
+Lucknow Super Giants Vs Rajasthan Royals,Rajasthan Royals,Sandeep Sharma,4,0,31,2,7.75,7,3,0,1,0,4
+Lucknow Super Giants Vs Rajasthan Royals,Rajasthan Royals,Trent Boult,4,0,41,1,10.25,9,6,0,2,0,4
+Gujarat Titans Vs Royal Challengers Bengaluru,Gujarat Titans,Mohit Sharma,2,0,41,0,20.50,3,3,4,0,1,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Gujarat Titans,Noor Ahmad,4,0,43,0,10.75,6,4,2,1,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Gujarat Titans,Rashid Khan,4,0,51,0,12.75,4,3,4,0,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Gujarat Titans,Sai Kishore,3,0,30,1,10.00,4,0,3,0,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Gujarat Titans,Sandeep Warrier,1,0,15,0,15.00,1,1,1,2,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Gujarat Titans,Azmatullah Omarzai,2,0,18,0,9.00,7,1,2,0,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Cameron Green,3,0,42,0,14.00,2,5,2,1,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Karn Sharma,3,0,38,0,12.66,4,1,4,1,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Glenn Maxwell,3,0,28,1,9.33,5,1,2,0,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Yash Dayal,4,0,34,0,8.50,9,2,1,3,1,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mohammed Siraj,4,0,34,1,8.50,9,3,1,4,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Swapnil Singh,3,0,23,1,7.66,5,3,0,0,0,37
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Matheesha Pathirana,2,0,17,2,8.50,3,0,1,2,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Shardul Thakur,4,0,27,1,6.75,8,3,0,0,1,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Ravindra Jadeja,4,0,22,1,5.50,8,0,1,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Mustafizur Rahman,2.5,0,19,2,6.70,6,2,0,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Tushar Deshpande,3,0,27,4,9.00,6,1,2,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Chennai Super Kings,Deepak Chahar,3,0,22,0,7.33,5,3,0,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Pat Cummins,4,0,49,0,12.25,4,4,3,1,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Jaydev Unadkat,4,0,38,1,9.50,3,2,1,1,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,T Natarajan,4,0,43,1,10.75,8,3,3,3,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Ahmed,3,0,33,0,11.00,3,5,0,0,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Nitish Kumar Reddy,1,0,8,0,8.00,2,1,0,1,0,18
+Chennai Super Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Bhuvneshwar Kumar,4,0,38,1,9.50,7,5,1,0,0,18
+Delhi Capitals Vs Kolkata Knight Riders,Delhi Capitals,Kuldeep Yadav,4,0,34,0,8.50,8,2,2,0,0,16
+Delhi Capitals Vs Kolkata Knight Riders,Delhi Capitals,Axar Patel,4,0,25,2,6.25,10,3,0,0,0,16
+Delhi Capitals Vs Kolkata Knight Riders,Delhi Capitals,Rasikh Salam,2.3,0,30,0,12.00,3,4,1,0,0,16
+Delhi Capitals Vs Kolkata Knight Riders,Delhi Capitals,Khaleel Ahmed,3,0,28,0,9.33,9,4,1,0,0,16
+Delhi Capitals Vs Kolkata Knight Riders,Delhi Capitals,Lizaad Williams,3,0,38,1,12.66,7,3,3,1,1,16
+Delhi Capitals Vs Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,1,0,10,0,10.00,3,2,0,0,0,16
+Delhi Capitals Vs Kolkata Knight Riders,Kolkata Knight Riders,Varun Chakravarthy,4,0,16,3,4.00,13,1,0,0,0,16
+Delhi Capitals Vs Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,4,0,24,1,6.00,9,1,1,0,0,16
+Delhi Capitals Vs Kolkata Knight Riders,Kolkata Knight Riders,Harshit Rana,4,0,28,2,7.00,11,3,1,1,0,16
+Delhi Capitals Vs Kolkata Knight Riders,Kolkata Knight Riders,Vaibhav Arora,4,0,29,2,7.25,15,4,1,2,1,16
+Delhi Capitals Vs Kolkata Knight Riders,Kolkata Knight Riders,Mitchell Starc,3,0,43,1,14.33,6,5,2,2,0,16
+Mumbai Indians Vs Lucknow Super Giants,Mumbai Indians,Mohammad Nabi,1.2,0,16,1,12.00,1,1,1,0,0,38
+Mumbai Indians Vs Lucknow Super Giants,Mumbai Indians,Hardik Pandya,4,0,26,2,6.50,8,2,0,1,0,38
+Mumbai Indians Vs Lucknow Super Giants,Mumbai Indians,Piyush Chawla,3,0,23,0,7.66,5,3,0,0,0,38
+Mumbai Indians Vs Lucknow Super Giants,Mumbai Indians,Gerald Coetzee,3,0,29,1,9.66,6,4,0,3,0,38
+Mumbai Indians Vs Lucknow Super Giants,Mumbai Indians,Jasprit Bumrah,4,0,17,0,4.25,16,1,1,0,0,38
+Mumbai Indians Vs Lucknow Super Giants,Mumbai Indians,Nuwan Thushara,4,0,30,1,7.50,11,3,1,2,0,38
+Mumbai Indians Vs Lucknow Super Giants,Lucknow Super Giants,Deepak Hooda,2,0,13,0,6.50,3,1,0,0,0,38
+Mumbai Indians Vs Lucknow Super Giants,Lucknow Super Giants,Ravi Bishnoi,4,0,28,1,7.00,8,3,0,1,0,38
+Mumbai Indians Vs Lucknow Super Giants,Lucknow Super Giants,Mayank Yadav,3.1,0,31,1,9.78,11,3,2,2,1,38
+Mumbai Indians Vs Lucknow Super Giants,Lucknow Super Giants,Naveen-ul-Haq,3.5,0,15,1,3.91,11,0,0,0,1,38
+Mumbai Indians Vs Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,4,0,36,2,9.00,10,4,1,0,0,38
+Mumbai Indians Vs Lucknow Super Giants,Lucknow Super Giants,Marcus Stoinis,3,0,19,1,6.33,10,1,1,1,0,38
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Shivam Dube,1,0,14,1,14.00,1,1,1,0,0,39
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Moeen Ali,2,0,22,0,11.00,4,1,2,0,0,39
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Ravindra Jadeja,3,0,22,0,7.33,6,3,0,0,0,39
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Mustafizur Rahman,4,1,22,0,5.50,14,2,0,5,0,39
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Richard Gleeson,3.5,0,30,1,7.82,10,4,0,1,1,39
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Shardul Thakur,3.4,0,48,1,13.09,3,5,2,1,1,39
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Deepak Chahar,0.2,0,4,0,12.00,1,1,0,0,0,39
+Chennai Super Kings Vs Punjab Kings,Punjab Kings,Harshal Patel,1,0,12,0,12.00,0,0,0,1,0,39
+Chennai Super Kings Vs Punjab Kings,Punjab Kings,Rahul Chahar,4,0,16,2,4.00,9,0,0,0,0,39
+Chennai Super Kings Vs Punjab Kings,Punjab Kings,Harpreet Brar,4,0,17,2,4.25,10,0,0,1,0,39
+Chennai Super Kings Vs Punjab Kings,Punjab Kings,Sam Curran,3,0,37,0,12.33,6,4,2,0,1,39
+Chennai Super Kings Vs Punjab Kings,Punjab Kings,Arshdeep Singh,4,0,52,1,13.00,8,7,2,5,0,39
+Chennai Super Kings Vs Punjab Kings,Punjab Kings,Kagiso Rabada,4,0,23,1,5.75,9,2,0,1,0,39
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,Shahbaz Ahmed,1,0,11,0,11.00,2,2,0,0,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,Nitish Kumar Reddy,1,0,12,0,12.00,1,1,0,2,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,Jaydev Unadkat,2,0,23,0,11.50,2,1,1,2,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,T Natarajan,4,0,35,2,8.75,8,2,2,3,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,Pat Cummins,4,0,34,2,8.50,12,2,3,0,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,Marco Jansen,4,0,44,0,11.00,10,7,0,3,2,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,Bhuvneshwar Kumar,4,0,41,3,10.25,8,4,2,0,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Rajasthan Royals,Yuzvendra Chahal,4,0,62,0,15.50,6,4,6,1,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Rajasthan Royals,Sandeep Sharma,4,0,31,1,7.75,10,1,2,2,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Rajasthan Royals,Avesh Khan,4,0,39,2,9.75,12,3,3,3,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Rajasthan Royals,Ravichandran Ashwin,4,0,36,0,9.00,10,0,4,1,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Rajasthan Royals,Trent Boult,4,0,33,0,8.25,8,5,0,1,0,40
+Kolkata Knight Riders Vs Mumbai Indians,Kolkata Knight Riders,Andre Russell,4,0,30,2,7.50,11,1,2,1,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Kolkata Knight Riders,Sunil Narine,4,0,22,2,5.50,11,2,0,1,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Kolkata Knight Riders,Varun Chakravarthy,4,0,22,2,5.50,11,2,0,0,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Kolkata Knight Riders,Mitchell Starc,3.5,0,33,4,8.60,12,1,3,1,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Kolkata Knight Riders,Vaibhav Arora,3,0,35,0,11.66,5,5,1,1,1,41
+Kolkata Knight Riders Vs Mumbai Indians,Mumbai Indians,Piyush Chawla,3,0,15,1,5.00,8,1,0,0,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Mumbai Indians,Naman Dhir,3,0,25,0,8.33,3,2,0,1,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Mumbai Indians,Hardik Pandya,4,0,44,2,11.00,9,2,4,1,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Mumbai Indians,Gerald Coetzee,2,0,24,0,12.00,3,3,1,0,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Mumbai Indians,Jasprit Bumrah,3.5,0,18,3,4.69,15,1,1,0,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Mumbai Indians,Nuwan Thushara,4,0,42,3,10.50,11,3,3,3,1,41
+Gujarat Titans Vs Royal Challengers Bengaluru,Gujarat Titans,Rashid Khan,1.4,0,25,0,15.00,1,3,1,0,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Gujarat Titans,Noor Ahmad,4,0,23,2,5.75,13,4,0,0,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Gujarat Titans,Manav Suthar,2,0,26,0,13.00,4,1,3,0,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Gujarat Titans,Josh Little,4,0,45,4,11.25,9,6,2,1,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Gujarat Titans,Mohit Sharma,2,0,32,0,16.00,2,4,2,0,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Karn Sharma,3,0,42,1,14.00,6,5,3,0,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Vijaykumar Vyshak,3.3,0,23,2,6.57,10,2,1,1,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Cameron Green,4,0,28,1,7.00,11,3,1,0,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Yash Dayal,4,0,21,2,5.25,11,2,0,0,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mohammed Siraj,4,0,29,2,7.25,13,5,0,3,0,37
+Gujarat Titans Vs Royal Challengers Bengaluru,Royal Challengers Bengaluru,Swapnil Singh,1,0,1,0,1.00,5,0,0,0,0,37
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Shardul Thakur,2,0,12,1,6.00,4,1,0,1,0,39
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Simarjeet Singh,3,0,16,2,5.33,11,1,1,0,0,39
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Ravindra Jadeja,4,0,20,3,5.00,9,1,0,0,0,39
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Richard Gleeson,4,0,41,0,10.25,10,3,3,2,0,39
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Tushar Deshpande,4,0,35,2,8.75,11,5,1,1,0,39
+Chennai Super Kings Vs Punjab Kings,Chennai Super Kings,Mitchell Santner,3,0,10,1,3.33,11,1,0,0,0,39
+Chennai Super Kings Vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,24,3,6.00,10,2,0,2,0,39
+Chennai Super Kings Vs Punjab Kings,Punjab Kings,Rahul Chahar,4,0,23,3,5.75,10,1,1,1,0,39
+Chennai Super Kings Vs Punjab Kings,Punjab Kings,Harpreet Brar,1,0,19,0,19.00,1,3,1,0,0,39
+Chennai Super Kings Vs Punjab Kings,Punjab Kings,Sam Curran,4,0,34,1,8.50,3,2,1,0,0,39
+Chennai Super Kings Vs Punjab Kings,Punjab Kings,Arshdeep Singh,4,0,42,2,10.50,7,4,2,1,0,39
+Chennai Super Kings Vs Punjab Kings,Punjab Kings,Kagiso Rabada,3,0,24,0,8.00,7,3,0,1,0,39
+Kolkata Knight Riders Vs Lucknow Super Giants,Kolkata Knight Riders,Andre Russell,2,0,17,2,8.50,4,0,1,3,0,28
+Kolkata Knight Riders Vs Lucknow Super Giants,Kolkata Knight Riders,Varun Chakravarthy,3,0,30,3,10.00,8,0,4,0,0,28
+Kolkata Knight Riders Vs Lucknow Super Giants,Kolkata Knight Riders,Harshit Rana,3.1,0,24,3,7.57,8,2,1,1,0,28
+Kolkata Knight Riders Vs Lucknow Super Giants,Kolkata Knight Riders,Sunil Narine,4,0,22,1,5.50,8,1,0,1,0,28
+Kolkata Knight Riders Vs Lucknow Super Giants,Kolkata Knight Riders,Mitchell Starc,2,0,22,1,11.00,5,5,0,0,0,28
+Kolkata Knight Riders Vs Lucknow Super Giants,Kolkata Knight Riders,Vaibhav Arora,2,0,21,0,10.50,4,2,1,1,0,28
+Kolkata Knight Riders Vs Lucknow Super Giants,Lucknow Super Giants,Yudhvir Singh,2,0,24,1,12.00,2,1,2,0,0,28
+Kolkata Knight Riders Vs Lucknow Super Giants,Lucknow Super Giants,Ravi Bishnoi,4,0,33,1,8.25,8,3,1,2,0,28
+Kolkata Knight Riders Vs Lucknow Super Giants,Lucknow Super Giants,Krunal Pandya,2,0,26,0,13.00,2,0,2,2,0,28
+Kolkata Knight Riders Vs Lucknow Super Giants,Lucknow Super Giants,Yash Thakur,4,0,46,1,11.50,7,3,3,3,0,28
+Kolkata Knight Riders Vs Lucknow Super Giants,Lucknow Super Giants,Naveen-ul-Haq,4,0,49,3,12.25,7,9,0,1,0,28
+Kolkata Knight Riders Vs Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,2,0,28,0,14.00,4,3,2,1,0,28
+Kolkata Knight Riders Vs Lucknow Super Giants,Lucknow Super Giants,Marcus Stoinis,2,0,29,0,14.50,4,2,3,0,0,28
+Sunrisers Hyderabad Vs Mumbai Indians,Sunrisers Hyderabad,Shahbaz Ahmed,1,0,11,0,11.00,1,2,0,0,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Sunrisers Hyderabad,Nitish Kumar Reddy,2,0,16,0,8.00,5,3,0,0,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Sunrisers Hyderabad,T Natarajan,3.2,0,31,0,9.30,8,4,1,0,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Sunrisers Hyderabad,Pat Cummins,4,1,35,1,8.75,12,4,2,1,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Sunrisers Hyderabad,Marco Jansen,3,0,45,1,15.00,5,5,2,2,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Sunrisers Hyderabad,Bhuvneshwar Kumar,4,1,22,1,5.50,17,3,1,1,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Mumbai Indians,Piyush Chawla,4,0,33,3,8.25,7,1,2,2,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Mumbai Indians,Hardik Pandya,4,0,31,3,7.75,7,4,0,1,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Mumbai Indians,Jasprit Bumrah,4,0,23,1,5.75,9,2,0,1,0,8
+Sunrisers Hyderabad Vs Mumbai Indians,Mumbai Indians,Anshul Kamboj,4,0,42,1,10.50,9,3,2,1,2,8
+Sunrisers Hyderabad Vs Mumbai Indians,Mumbai Indians,Nuwan Thushara,4,0,42,0,10.50,7,3,1,3,1,8
+Delhi Capitals Vs Rajasthan Royals,Delhi Capitals,Rasikh Salam,3,0,36,1,12.00,6,1,4,1,0,9
+Delhi Capitals Vs Rajasthan Royals,Delhi Capitals,Kuldeep Yadav,4,0,25,2,6.25,10,0,2,0,1,9
+Delhi Capitals Vs Rajasthan Royals,Delhi Capitals,Axar Patel,3,0,25,1,8.33,9,2,2,0,0,9
+Delhi Capitals Vs Rajasthan Royals,Delhi Capitals,Mukesh Kumar,3,0,30,2,10.00,7,4,1,1,0,9
+Delhi Capitals Vs Rajasthan Royals,Delhi Capitals,Ishant Sharma,3,0,34,0,11.33,7,4,2,1,0,9
+Delhi Capitals Vs Rajasthan Royals,Delhi Capitals,Khaleel Ahmed,4,0,47,2,11.75,9,5,2,7,0,9
+Delhi Capitals Vs Rajasthan Royals,Rajasthan Royals,Yuzvendra Chahal,4,0,48,1,12.00,5,4,3,0,0,9
+Delhi Capitals Vs Rajasthan Royals,Rajasthan Royals,Riyan Parag,2,0,17,0,8.50,4,1,1,1,0,9
+Delhi Capitals Vs Rajasthan Royals,Rajasthan Royals,Ravichandran Ashwin,4,0,24,3,6.00,6,0,1,0,0,9
+Delhi Capitals Vs Rajasthan Royals,Rajasthan Royals,Avesh Khan,2,0,42,0,21.00,0,5,3,0,0,9
+Delhi Capitals Vs Rajasthan Royals,Rajasthan Royals,Sandeep Sharma,4,0,42,1,10.50,7,5,2,0,0,9
+Delhi Capitals Vs Rajasthan Royals,Rajasthan Royals,Trent Boult,4,0,48,1,12.00,8,7,2,0,0,9
+Lucknow Super Giants Vs Sunrisers Hyderabad,Lucknow Super Giants,Ayush Badoni,1,0,19,0,19.00,0,1,2,0,0,42
+Lucknow Super Giants Vs Sunrisers Hyderabad,Lucknow Super Giants,Naveen-ul-Haq,2,0,37,0,18.50,1,5,2,0,0,42
+Lucknow Super Giants Vs Sunrisers Hyderabad,Lucknow Super Giants,Ravi Bishnoi,2,0,34,0,17.00,4,2,4,0,0,42
+Lucknow Super Giants Vs Sunrisers Hyderabad,Lucknow Super Giants,Yash Thakur,2.4,0,47,0,17.62,4,6,3,1,0,42
+Lucknow Super Giants Vs Sunrisers Hyderabad,Lucknow Super Giants,Krishnappa Gowtham,2,0,29,0,14.50,5,2,3,1,0,42
+Lucknow Super Giants Vs Sunrisers Hyderabad,Sunrisers Hyderabad,T Natarajan,4,0,50,0,12.50,4,8,0,3,0,42
+Lucknow Super Giants Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Jaydev Unadkat,2,0,19,0,9.50,4,0,2,0,0,42
+Lucknow Super Giants Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Vijayakanth Viyaskanth,4,0,27,0,6.75,8,2,1,0,0,42
+Lucknow Super Giants Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Ahmed,2,0,9,0,4.50,4,0,0,0,0,42
+Lucknow Super Giants Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Pat Cummins,4,0,47,1,11.75,5,6,1,0,0,42
+Lucknow Super Giants Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Bhuvneshwar Kumar,4,0,12,2,3.00,12,0,0,0,0,42
+Royal Challengers Bengaluru Vs Punjab Kings,Royal Challengers Bengaluru,Karn Sharma,3,0,36,2,12.00,7,3,3,0,0,6
+Royal Challengers Bengaluru Vs Punjab Kings,Royal Challengers Bengaluru,Cameron Green,1,0,16,0,16.00,1,2,1,0,0,6
+Royal Challengers Bengaluru Vs Punjab Kings,Royal Challengers Bengaluru,Will Jacks,1,0,5,0,5.00,1,0,0,0,0,6
+Royal Challengers Bengaluru Vs Punjab Kings,Royal Challengers Bengaluru,Lockie Ferguson,3,0,29,2,9.66,6,5,0,0,0,6
+Royal Challengers Bengaluru Vs Punjab Kings,Royal Challengers Bengaluru,Yash Dayal,2,0,22,0,11.00,5,3,1,1,0,6
+Royal Challengers Bengaluru Vs Punjab Kings,Royal Challengers Bengaluru,Mohammed Siraj,4,0,43,3,10.75,9,5,2,2,0,6
+Royal Challengers Bengaluru Vs Punjab Kings,Royal Challengers Bengaluru,Swapnil Singh,3,0,28,2,9.33,7,5,0,0,0,6
+Royal Challengers Bengaluru Vs Punjab Kings,Punjab Kings,Liam Livingstone,3,0,28,0,9.33,4,2,1,1,0,6
+Royal Challengers Bengaluru Vs Punjab Kings,Punjab Kings,Rahul Chahar,3,0,47,0,15.66,5,3,4,0,1,6
+Royal Challengers Bengaluru Vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,38,3,9.50,7,5,1,1,0,6
+Royal Challengers Bengaluru Vs Punjab Kings,Punjab Kings,Sam Curran,3,0,50,1,16.66,2,4,4,2,0,6
+Royal Challengers Bengaluru Vs Punjab Kings,Punjab Kings,Arshdeep Singh,3,0,41,1,13.66,5,3,3,2,0,6
+Royal Challengers Bengaluru Vs Punjab Kings,Punjab Kings,Vidwath Kaverappa,4,0,36,2,9.00,11,2,3,0,0,6
+Gujarat Titans Vs Chennai Super Kings,Gujarat Titans,Mohit Sharma,4,0,31,3,7.75,10,3,1,2,0,7
+Gujarat Titans Vs Chennai Super Kings,Gujarat Titans,Rashid Khan,4,0,38,2,9.50,10,3,3,0,0,7
+Gujarat Titans Vs Chennai Super Kings,Gujarat Titans,Noor Ahmad,2,0,25,0,12.50,3,0,3,0,0,7
+Gujarat Titans Vs Chennai Super Kings,Gujarat Titans,Kartik Tyagi,4,0,51,0,12.75,5,6,2,2,0,7
+Gujarat Titans Vs Chennai Super Kings,Gujarat Titans,Sandeep Warrier,3,0,28,1,9.33,8,1,3,0,0,7
+Gujarat Titans Vs Chennai Super Kings,Gujarat Titans,Umesh Yadav,3,0,20,1,6.66,8,3,0,0,0,7
+Gujarat Titans Vs Chennai Super Kings,Chennai Super Kings,Daryl Mitchell,4,0,52,0,13.00,2,4,3,1,0,7
+Gujarat Titans Vs Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,2,0,29,0,14.50,0,2,1,0,0,7
+Gujarat Titans Vs Chennai Super Kings,Chennai Super Kings,Simarjeet Singh,4,0,60,0,15.00,4,3,5,2,0,7
+Gujarat Titans Vs Chennai Super Kings,Chennai Super Kings,Shardul Thakur,4,0,25,0,6.25,10,1,1,0,0,7
+Gujarat Titans Vs Chennai Super Kings,Chennai Super Kings,Tushar Deshpande,4,0,33,2,8.25,6,2,1,2,0,7
+Gujarat Titans Vs Chennai Super Kings,Chennai Super Kings,Mitchell Santner,2,0,31,0,15.50,2,3,2,0,0,7
+Kolkata Knight Riders Vs Mumbai Indians,Kolkata Knight Riders,Andre Russell,3,0,34,2,11.33,5,3,2,2,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Kolkata Knight Riders,Varun Chakravarthy,4,0,17,2,4.25,12,1,0,1,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Kolkata Knight Riders,Sunil Narine,3,0,21,1,7.00,10,2,1,0,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Kolkata Knight Riders,Harshit Rana,3,0,34,2,11.33,7,4,2,1,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Kolkata Knight Riders,Mitchell Starc,1,0,11,0,11.00,2,2,0,0,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Kolkata Knight Riders,Vaibhav Arora,2,0,16,0,8.00,7,1,1,1,1,41
+Kolkata Knight Riders Vs Mumbai Indians,Mumbai Indians,Piyush Chawla,3,0,28,2,9.33,7,2,2,0,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Mumbai Indians,Hardik Pandya,3,0,32,0,10.66,6,3,2,0,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Mumbai Indians,Anshul Kamboj,3,0,24,1,8.00,7,2,1,1,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Mumbai Indians,Jasprit Bumrah,4,0,39,2,9.75,10,5,2,0,0,41
+Kolkata Knight Riders Vs Mumbai Indians,Mumbai Indians,Nuwan Thushara,3,0,31,1,10.33,6,2,2,2,0,41
+Rajasthan Royals Vs Chennai Super Kings,Rajasthan Royals,Avesh Khan,2,0,12,0,6.00,3,0,0,1,0,43
+Rajasthan Royals Vs Chennai Super Kings,Rajasthan Royals,Yuzvendra Chahal,4,0,22,1,5.50,8,1,0,1,0,43
+Rajasthan Royals Vs Chennai Super Kings,Rajasthan Royals,Nandre Burger,3,0,21,1,7.00,7,0,2,0,0,43
+Rajasthan Royals Vs Chennai Super Kings,Rajasthan Royals,Ravichandran Ashwin,4,0,35,2,8.75,8,4,1,1,0,43
+Rajasthan Royals Vs Chennai Super Kings,Rajasthan Royals,Sandeep Sharma,3,0,30,0,10.00,5,3,1,1,0,43
+Rajasthan Royals Vs Chennai Super Kings,Rajasthan Royals,Trent Boult,2.2,0,24,0,10.28,6,3,1,1,0,43
+Rajasthan Royals Vs Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,4,0,24,0,6.00,7,0,1,0,0,43
+Rajasthan Royals Vs Chennai Super Kings,Chennai Super Kings,Simarjeet Singh,4,0,26,3,6.50,13,2,1,4,0,43
+Rajasthan Royals Vs Chennai Super Kings,Chennai Super Kings,Shardul Thakur,4,0,32,0,8.00,6,2,1,0,0,43
+Rajasthan Royals Vs Chennai Super Kings,Chennai Super Kings,Maheesh Theekshana,4,0,28,0,7.00,9,2,1,0,0,43
+Rajasthan Royals Vs Chennai Super Kings,Chennai Super Kings,Tushar Deshpande,4,0,30,2,7.50,10,1,2,0,0,43
+Royal Challengers Bengaluru Vs Delhi Capitals,Royal Challengers Bengaluru,Will Jacks,1,0,16,0,16.00,0,0,2,0,0,44
+Royal Challengers Bengaluru Vs Delhi Capitals,Royal Challengers Bengaluru,Cameron Green,4,0,19,1,4.75,12,1,0,2,0,44
+Royal Challengers Bengaluru Vs Delhi Capitals,Royal Challengers Bengaluru,Lockie Ferguson,4,0,23,2,5.75,9,2,0,0,0,44
+Royal Challengers Bengaluru Vs Delhi Capitals,Royal Challengers Bengaluru,Karn Sharma,2,0,19,0,9.50,2,1,1,0,0,44
+Royal Challengers Bengaluru Vs Delhi Capitals,Royal Challengers Bengaluru,Yash Dayal,3.1,0,20,3,6.31,12,4,0,1,0,44
+Royal Challengers Bengaluru Vs Delhi Capitals,Royal Challengers Bengaluru,Mohammed Siraj,4,0,33,1,8.25,13,4,1,2,0,44
+Royal Challengers Bengaluru Vs Delhi Capitals,Royal Challengers Bengaluru,Swapnil Singh,1,0,9,1,9.00,2,0,1,0,0,44
+Royal Challengers Bengaluru Vs Delhi Capitals,Delhi Capitals,Rasikh Salam,3,0,23,2,7.66,5,2,0,3,0,44
+Royal Challengers Bengaluru Vs Delhi Capitals,Delhi Capitals,Kuldeep Yadav,4,0,52,1,13.00,6,0,6,1,0,44
+Royal Challengers Bengaluru Vs Delhi Capitals,Delhi Capitals,Axar Patel,3,0,24,0,8.00,5,0,2,0,0,44
+Royal Challengers Bengaluru Vs Delhi Capitals,Delhi Capitals,Mukesh Kumar,3,0,23,1,7.66,9,4,0,0,0,44
+Royal Challengers Bengaluru Vs Delhi Capitals,Delhi Capitals,Khaleel Ahmed,4,0,31,2,7.75,9,3,1,0,0,44
+Royal Challengers Bengaluru Vs Delhi Capitals,Delhi Capitals,Ishant Sharma,3,0,31,1,10.33,5,1,2,3,0,44
+Delhi Capitals Vs Lucknow Super Giants,Delhi Capitals,Rasikh Salam,3,0,30,0,10.00,5,1,2,0,0,26
+Delhi Capitals Vs Lucknow Super Giants,Delhi Capitals,Gulbadin Naib,1,0,12,0,12.00,1,2,0,0,0,26
+Delhi Capitals Vs Lucknow Super Giants,Delhi Capitals,Tristan Stubbs,1,0,4,1,4.00,3,0,0,0,0,26
+Delhi Capitals Vs Lucknow Super Giants,Delhi Capitals,Kuldeep Yadav,4,0,33,1,8.25,9,2,2,0,0,26
+Delhi Capitals Vs Lucknow Super Giants,Delhi Capitals,Mukesh Kumar,4,0,33,1,8.25,9,3,1,2,0,26
+Delhi Capitals Vs Lucknow Super Giants,Delhi Capitals,Axar Patel,1,0,20,1,20.00,2,2,2,0,0,26
+Delhi Capitals Vs Lucknow Super Giants,Delhi Capitals,Khaleel Ahmed,2,0,22,1,11.00,7,2,2,1,0,26
+Delhi Capitals Vs Lucknow Super Giants,Delhi Capitals,Ishant Sharma,4,0,34,3,8.50,10,4,1,2,0,26
+Delhi Capitals Vs Lucknow Super Giants,Lucknow Super Giants,Deepak Hooda,1,0,9,0,9.00,1,1,0,1,0,26
+Delhi Capitals Vs Lucknow Super Giants,Lucknow Super Giants,Krunal Pandya,2,0,20,0,10.00,3,3,0,1,0,26
+Delhi Capitals Vs Lucknow Super Giants,Lucknow Super Giants,Ravi Bishnoi,4,0,26,1,6.50,9,1,1,0,0,26
+Delhi Capitals Vs Lucknow Super Giants,Lucknow Super Giants,Naveen-ul-Haq,4,0,51,2,12.75,6,3,4,1,0,26
+Delhi Capitals Vs Lucknow Super Giants,Lucknow Super Giants,Yudhvir Singh,2,0,28,0,14.00,3,3,1,0,0,26
+Delhi Capitals Vs Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,4,0,29,0,7.25,11,2,2,0,0,26
+Delhi Capitals Vs Lucknow Super Giants,Lucknow Super Giants,Arshad Khan,3,0,45,1,15.00,5,5,2,5,0,26
+Rajasthan Royals Vs Punjab Kings,Rajasthan Royals,Yuzvendra Chahal,4,0,31,2,7.75,5,3,0,1,0,27
+Rajasthan Royals Vs Punjab Kings,Rajasthan Royals,Ravichandran Ashwin,4,0,31,0,7.75,11,1,3,0,0,27
+Rajasthan Royals Vs Punjab Kings,Rajasthan Royals,Avesh Khan,3.5,0,28,2,7.30,9,1,2,0,0,27
+Rajasthan Royals Vs Punjab Kings,Rajasthan Royals,Sandeep Sharma,4,0,28,0,7.00,11,3,1,0,0,27
+Rajasthan Royals Vs Punjab Kings,Rajasthan Royals,Trent Boult,3,0,27,1,9.00,7,5,0,0,0,27
+Rajasthan Royals Vs Punjab Kings,Punjab Kings,Harpreet Brar,1,0,10,0,10.00,1,1,0,0,0,27
+Rajasthan Royals Vs Punjab Kings,Punjab Kings,Rahul Chahar,4,0,26,2,6.50,9,2,1,0,0,27
+Rajasthan Royals Vs Punjab Kings,Punjab Kings,Harshal Patel,4,0,28,2,7.00,8,2,0,1,0,27
+Rajasthan Royals Vs Punjab Kings,Punjab Kings,Nathan Ellis,4,0,24,1,6.00,10,3,0,0,0,27
+Rajasthan Royals Vs Punjab Kings,Punjab Kings,Arshdeep Singh,4,0,31,1,7.75,12,6,0,0,0,27
+Rajasthan Royals Vs Punjab Kings,Punjab Kings,Sam Curran,3,0,24,2,8.00,11,4,1,0,0,27
+Lucknow Super Giants Vs Mumbai Indians,Lucknow Super Giants,Ravi Bishnoi,4,0,37,2,9.25,9,5,1,0,0,38
+Lucknow Super Giants Vs Mumbai Indians,Lucknow Super Giants,Naveen-ul-Haq,4,0,50,2,12.50,8,5,3,1,1,38
+Lucknow Super Giants Vs Mumbai Indians,Lucknow Super Giants,Mohsin Khan,4,0,45,1,11.25,9,4,3,2,0,38
+Lucknow Super Giants Vs Mumbai Indians,Lucknow Super Giants,Krunal Pandya,4,0,29,1,7.25,10,1,2,1,0,38
+Lucknow Super Giants Vs Mumbai Indians,Lucknow Super Giants,Matt Henry,2,0,24,0,12.00,4,1,2,2,0,38
+Lucknow Super Giants Vs Mumbai Indians,Lucknow Super Giants,Arshad Khan,2,0,11,0,5.50,7,1,0,2,0,38
+Lucknow Super Giants Vs Mumbai Indians,Mumbai Indians,Romario Shepherd,2,0,30,0,15.00,5,3,2,3,0,38
+Lucknow Super Giants Vs Mumbai Indians,Mumbai Indians,Naman Dhir,0.4,0,17,0,25.50,0,1,2,0,0,38
+Lucknow Super Giants Vs Mumbai Indians,Mumbai Indians,Hardik Pandya,2,0,27,0,13.50,1,1,2,0,0,38
+Lucknow Super Giants Vs Mumbai Indians,Mumbai Indians,Nehal Wadhera,2,0,13,0,6.50,2,1,0,0,0,38
+Lucknow Super Giants Vs Mumbai Indians,Mumbai Indians,Piyush Chawla,4,0,29,3,7.25,10,0,3,0,0,38
+Lucknow Super Giants Vs Mumbai Indians,Mumbai Indians,Anshul Kamboj,3,0,48,0,16.00,4,5,3,4,0,38
+Lucknow Super Giants Vs Mumbai Indians,Mumbai Indians,Arjun Tendulkar,2.2,0,22,0,9.42,7,1,2,1,0,38
+Lucknow Super Giants Vs Mumbai Indians,Mumbai Indians,Nuwan Thushara,4,0,28,3,7.00,11,4,0,2,0,38
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Cameron Green,2,0,18,1,9.00,3,2,0,1,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Lockie Ferguson,3,0,39,1,13.00,6,3,3,0,2,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Karn Sharma,1,0,14,0,14.00,0,1,1,0,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Swapnil Singh,2,0,13,0,6.50,1,0,0,1,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Yash Dayal,4,0,42,2,10.50,9,4,3,0,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Mohammed Siraj,4,0,35,1,8.75,7,3,1,1,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Royal Challengers Bengaluru,Glenn Maxwell,4,0,25,1,6.25,7,1,0,1,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Chennai Super Kings,Simarjeet Singh,1,0,19,0,19.00,0,2,1,2,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Chennai Super Kings,Ravindra Jadeja,3,0,40,0,13.33,2,2,3,0,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Chennai Super Kings,Mitchell Santner,4,0,23,1,5.75,10,1,1,0,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Chennai Super Kings,Maheesh Theekshana,4,0,25,0,6.25,11,2,1,1,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Chennai Super Kings,Shardul Thakur,4,0,61,2,15.25,5,5,5,0,0,1
+Royal Challengers Bengaluru Vs Chennai Super Kings,Chennai Super Kings,Tushar Deshpande,4,0,49,1,12.25,10,2,5,4,0,1
+Punjab Kings Vs Sunrisers Hyderabad,Punjab Kings,Atharva Taide,0.1,0,4,0,24.00,0,1,0,0,0,23
+Punjab Kings Vs Sunrisers Hyderabad,Punjab Kings,Shashank Singh,1,0,5,1,5.00,1,0,0,0,0,23
+Punjab Kings Vs Sunrisers Hyderabad,Punjab Kings,Harpreet Brar,3,0,36,1,12.00,7,0,4,1,0,23
+Punjab Kings Vs Sunrisers Hyderabad,Punjab Kings,Rahul Chahar,4,0,43,0,10.75,6,1,4,1,0,23
+Punjab Kings Vs Sunrisers Hyderabad,Punjab Kings,Harshal Patel,4,0,49,2,12.25,6,5,2,2,1,23
+Punjab Kings Vs Sunrisers Hyderabad,Punjab Kings,Rishi Dhawan,3,0,35,0,11.66,5,2,3,1,0,23
+Punjab Kings Vs Sunrisers Hyderabad,Punjab Kings,Arshdeep Singh,4,0,37,2,9.25,10,5,1,1,0,23
+Punjab Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Nitish Kumar Reddy,3,0,54,0,18.00,2,3,5,2,1,23
+Punjab Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Ahmed,1,0,13,0,13.00,1,1,1,0,0,23
+Punjab Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Vijayakanth Viyaskanth,4,0,37,1,9.25,10,2,3,0,0,23
+Punjab Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,T Natarajan,4,0,33,2,8.25,8,3,1,2,0,23
+Punjab Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Pat Cummins,4,0,36,1,9.00,7,4,1,0,0,23
+Punjab Kings Vs Sunrisers Hyderabad,Sunrisers Hyderabad,Bhuvneshwar Kumar,4,0,36,0,9.00,8,4,1,0,0,23
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Sunrisers Hyderabad,Nitish Kumar Reddy,1,0,13,0,13.00,1,1,1,0,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Sunrisers Hyderabad,Travis Head,1.4,0,32,0,19.20,2,3,3,0,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Sunrisers Hyderabad,Vijayakanth Viyaskanth,2,0,22,0,11.00,1,0,2,0,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Sunrisers Hyderabad,T Natarajan,3,0,22,1,7.33,11,3,1,1,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Sunrisers Hyderabad,Pat Cummins,3,0,38,1,12.66,6,5,2,1,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Sunrisers Hyderabad,Bhuvneshwar Kumar,3,0,28,0,9.33,9,4,1,0,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Kolkata Knight Riders,Varun Chakravarthy,4,0,26,2,6.50,9,1,1,1,1,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,1.3,0,15,1,10.00,2,2,0,0,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,4,0,40,1,10.00,7,2,3,0,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Kolkata Knight Riders,Harshit Rana,4,0,27,1,6.75,9,2,1,1,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Kolkata Knight Riders,Vaibhav Arora,2,0,17,1,8.50,5,1,0,2,1,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Kolkata Knight Riders,Mitchell Starc,4,0,34,3,8.50,11,5,1,1,0,3
+Royal Challengers Bengaluru Vs Rajasthan Royals,Royal Challengers Bengaluru,Cameron Green,4,0,28,1,7.00,9,1,2,0,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Royal Challengers Bengaluru,Karn Sharma,2,0,19,1,9.50,1,2,0,2,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Royal Challengers Bengaluru,Lockie Ferguson,4,0,37,1,9.25,9,3,2,0,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Royal Challengers Bengaluru,Yash Dayal,3,0,37,0,12.33,5,8,0,0,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Royal Challengers Bengaluru,Mohammed Siraj,4,0,33,2,8.25,7,4,0,3,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Royal Challengers Bengaluru,Swapnil Singh,2,0,19,0,9.50,4,2,1,0,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Rajasthan Royals,Yuzvendra Chahal,4,0,43,1,10.75,7,2,4,0,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Rajasthan Royals,Ravichandran Ashwin,4,0,19,2,4.75,9,0,0,2,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Rajasthan Royals,Avesh Khan,4,0,44,3,11.00,6,5,2,0,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Rajasthan Royals,Sandeep Sharma,4,0,48,1,12.00,3,5,2,0,0,19
+Royal Challengers Bengaluru Vs Rajasthan Royals,Rajasthan Royals,Trent Boult,4,0,16,1,4.00,14,1,0,0,0,19
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,Aiden Markram,1,0,10,0,10.00,2,0,1,0,1,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,Abhishek Sharma,4,0,24,2,6.00,8,2,0,0,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,Shahbaz Ahmed,4,0,23,3,5.75,13,2,1,0,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,Jaydev Unadkat,1,0,5,0,5.00,2,0,0,1,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,T Natarajan,3,0,13,1,4.33,13,2,0,1,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,Pat Cummins,4,0,30,1,7.50,10,3,1,1,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Sunrisers Hyderabad,Bhuvneshwar Kumar,3,0,33,0,11.00,7,4,2,0,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Rajasthan Royals,Yuzvendra Chahal,4,0,34,0,8.50,9,0,3,2,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Rajasthan Royals,Avesh Khan,4,0,27,3,6.75,11,2,1,2,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Rajasthan Royals,Sandeep Sharma,4,0,25,2,6.25,10,3,0,1,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Rajasthan Royals,Ravichandran Ashwin,4,0,43,0,10.75,4,3,2,0,0,40
+Sunrisers Hyderabad Vs Rajasthan Royals,Rajasthan Royals,Trent Boult,4,0,45,3,11.25,7,3,3,2,0,40
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Sunrisers Hyderabad,Aiden Markram,1,0,5,0,5.00,2,0,0,0,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Sunrisers Hyderabad,Jaydev Unadkat,1,0,9,0,9.00,1,1,0,0,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Sunrisers Hyderabad,Shahbaz Ahmed,2.3,0,22,1,8.80,7,1,2,0,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Sunrisers Hyderabad,T Natarajan,2,0,29,0,14.50,2,4,1,2,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Sunrisers Hyderabad,Pat Cummins,2,0,18,1,9.00,7,2,1,1,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Sunrisers Hyderabad,Bhuvneshwar Kumar,2,0,25,0,12.50,5,2,2,1,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Kolkata Knight Riders,Varun Chakravarthy,2,0,9,1,4.50,7,1,0,0,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Kolkata Knight Riders,Andre Russell,2.3,0,19,3,7.60,7,1,1,1,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Kolkata Knight Riders,Sunil Narine,4,0,16,1,4.00,9,0,0,0,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Kolkata Knight Riders,Harshit Rana,4,1,24,2,6.00,13,2,1,1,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Kolkata Knight Riders,Vaibhav Arora,3,0,24,1,8.00,9,2,1,4,0,3
+Sunrisers Hyderabad Vs Kolkata Knight Riders,Kolkata Knight Riders,Mitchell Starc,3,0,14,2,4.66,11,2,0,0,0,3
