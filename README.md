@@ -1,8 +1,8 @@
 
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTxPSNeKK3v74fXS-ESel0INzwvFKyO3nCQ&s" alt="Logo" width="80" height="80">
+<a href="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTxPSNeKK3v74fXS-ESel0INzwvFKyO3nCQ&s" alt="Logo" width="100" height="300">
 </a>
 <h3 align="center">IPL 2024 Data Analytics</h3>
 <p align="center">
